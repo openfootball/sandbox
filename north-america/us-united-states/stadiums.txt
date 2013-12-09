@@ -1,0 +1,56 @@
+#########
+# see en.wikipedia.org/wiki/2013_CONCACAF_Gold_Cup
+
+
+####################
+# Californa, CA
+
+Rose Bowl, 92_542, Los Angeles  # Use Pasadena ?? Use Los Angeles ??
+
+#####################
+# Washington, WA
+
+CenturyLink Field, 67_000, Seattle
+
+#####################
+# Colorado, CO
+
+Sports Authority Field at Mile High, 76_125, Denver
+
+
+
+################
+#
+
+Red Bull Arena,  25_189, Harrison
+
+
+##############
+# Florida
+
+Sun Life Stadium,   74_918,  Miami Gardens   # Use Miami ??
+
+################
+# Texas
+
+BBVA Compass Stadium,  22_039,  Houston
+
+
+###############
+# Oregon
+
+Jeld-Wen Field, 20_438, Portland
+
+#############
+# Utah
+
+Rio Tinto Stadium, 20_213,  Salt Lake City  # Sandy 
+
+#####################
+#
+
+Rentschler Field,  40_000,  East Hartford
+
+
+
+
