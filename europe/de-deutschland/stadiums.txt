@@ -1,56 +1,56 @@
 ##############
 # Berlin
 
-Olympiastadion,   74_176,   Berlin
+Olympiastadion,   74_176,   Berlin      # Hertha BSC
 
 
 ################
 # Hamburg
 
-AOL Arena,  51_055,  Hamburg
+AOL Arena|Volksparkstadion,  51_055,  Hamburg   #  Hamburger SV
 
 
 ###############
 # Nordrhein-Westfalen
 
-Signal Iduna Park,   67_000, Dortmund
-Veltins-Arena,  53_804,  Gelsenkirchen
-RheinEnergie Stadion,  46_134,  Köln
+Signal Iduna Park|Westfalenstadion,   67_000, Dortmund    #  Borussia Dortmund
+Veltins-Arena,  53_804,  Gelsenkirchen    # FC Schalke 04
+RheinEnergie Stadion|Müngersdorfer Stadion,  46_134,  Köln    #  1. FC Köln
 
 
 ###################
 # Bayern - BY
 
-Allianz Arena, 66_016,  München
-EasyCredit-Stadion|Frankenstadion,  41_926,  Nürnberg
+Allianz Arena, 66_016,  München   #  FC Bayern München, TSV 1860 München
+EasyCredit-Stadion|Frankenstadion,  41_926,  Nürnberg   #  1. FC Nürnberg
 
 
 #############################
 # Baden-Württemberg
 
-Gottlieb-Daimler-Stadion,   54_267,  Stuttgart
+Gottlieb-Daimler-Stadion|Mercedes-Benz Arena,   54_267,  Stuttgart   #  VfB Stuttgart
 
 
 ##################
 # Hessen
 
-Commerzbank Arena, 48_132, Frankfurt
+Commerzbank-Arena|Waldstadion, 48_132, Frankfurt    #  Eintracht Frankfurt
 
 
 ####################
 # Niedersachsen
 
-AWD-Arena, 44_652,  Hannover
+AWD-Arena|Niedersachsenstadion, 44_652,  Hannover    #  Hannover 96
 
 
 ###################
 # Sachsen
 
-Zentralstadion, 44_199, Leipzig
+Zentralstadion|Red Bull Arena, 44_199, Leipzig   #  RB Leipzig
 
 
 ######################
 # Rheinland-Pfalz
 
-Fritz Walter Stadion, 43_450, Kaiserslautern
+Fritz Walter Stadion, 43_450, Kaiserslautern    #  1. FC Kaiserslautern
 

@@ -1,0 +1,26 @@
+#########
+# todo/fix: add regions/states/kantons
+
+
+####################
+#
+
+Stade de Genève,  31_228, Geneva
+
+
+######################
+#
+
+St. Jakob-Park,  42_000, Basel
+
+###################
+#
+
+Stade de Suisse,  31_907, Bern
+
+
+#######################
+#
+
+Letzigrund, 30_000, Zurich   # fix: use zuerich umlaut
+

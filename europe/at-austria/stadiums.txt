@@ -1,0 +1,23 @@
+##############
+# Wien, W
+
+Ernst-Happel-Stadion, 53_295, Wien
+
+
+#############
+# Kaernten, K
+
+Hypo-Arena, 31_957, Klagenfurt
+
+
+##############
+# Salzburg, S
+
+Wals-Siezenheim-Stadion, 31_020, Salzburg
+
+
+#################
+# Tirol, T
+
+Tivoli-Neu Stadion, 31_600, Innsbruck
+
