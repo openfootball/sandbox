@@ -1,0 +1,56 @@
+##############
+# Berlin
+
+Olympiastadion,   74_176,   Berlin
+
+
+################
+# Hamburg
+
+AOL Arena,  51_055,  Hamburg
+
+
+###############
+# Nordrhein-Westfalen
+
+Signal Iduna Park,   67_000, Dortmund
+Veltins-Arena,  53_804,  Gelsenkirchen
+RheinEnergie Stadion,  46_134,  Köln
+
+
+###################
+# Bayern - BY
+
+Allianz Arena, 66_016,  München
+EasyCredit-Stadion|Frankenstadion,  41_926,  Nürnberg
+
+
+#############################
+# Baden-Württemberg
+
+Gottlieb-Daimler-Stadion,   54_267,  Stuttgart
+
+
+##################
+# Hessen
+
+Commerzbank Arena, 48_132, Frankfurt
+
+
+####################
+# Niedersachsen
+
+AWD-Arena, 44_652,  Hannover
+
+
+###################
+# Sachsen
+
+Zentralstadion, 44_199, Leipzig
+
+
+######################
+# Rheinland-Pfalz
+
+Fritz Walter Stadion, 43_450, Kaiserslautern
+
