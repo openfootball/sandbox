@@ -1,39 +1,58 @@
 #########
 # see en.wikipedia.org/wiki/2013_CONCACAF_Gold_Cup
+#
+# todo: add mls stadiums ???
 
 
 ####################
 # Californa, CA
 
-Rose Bowl, 92_542, Los Angeles  # Use Pasadena ?? Use Los Angeles ??
+Rose Bowl, 92_542, Pasadena, CA   # Pasadena is a city in Los Angeles County - use Los Angeles?
 
 #####################
 # Washington, WA
 
-CenturyLink Field, 67_000, Seattle
+CenturyLink Field, 67_000, Seattle, WA
 
 #####################
 # Colorado, CO
 
-Sports Authority Field at Mile High, 76_125, Denver
+Sports Authority Field at Mile High, 76_125, Denver, CO
 
 
 
 ################
-#
+# New Jersey, NJ
 
-Red Bull Arena,  25_189, Harrison
+Red Bull Arena,  25_189, Harrison, NJ
 
+
+#################
+# Georgia
+
+Georgia Dome, 71_228,  Atlanta
 
 ##############
-# Florida
+#  Maryland
 
-Sun Life Stadium,   74_918,  Miami Gardens   # Use Miami ??
+M&T Bank Stadium, 71_008,  Baltimore
 
 ################
-# Texas
+#  Illinois
 
-BBVA Compass Stadium,  22_039,  Houston
+Soldier Field, 61_500, Chicago
+
+##############
+# Florida, FL
+
+Sun Life Stadium,   74_918, Miami (Miami Gardens), FL   # Miami Gardens is a suburban Miami city
+
+################
+# Texas, TX
+
+BBVA Compass Stadium,  22_039,  Houston, TX
+Cowboys Stadium,   80_000,  Arlington, TX    # within the Dallas–Fort Worth–Arlington metro area
+
 
 
 ###############
@@ -44,10 +63,10 @@ Jeld-Wen Field, 20_438, Portland
 #############
 # Utah
 
-Rio Tinto Stadium, 20_213,  Salt Lake City  # Sandy 
+Rio Tinto Stadium, 20_213,  Salt Lake City (Sandy)   # Sandy (City) - suburb of Salt Lake City
 
 #####################
-#
+# Connecticut
 
 Rentschler Field,  40_000,  East Hartford
 

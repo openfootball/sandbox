@@ -1,0 +1,79 @@
+######################################
+# México, D. F (Distrito Federal)
+
+Azteca,                 105_064,  1966,  México | D. F.    # clubs: América
+Azul,                    35_161,  1947,  México | D. F.    # Cruz Azul
+Olímpico Universitario,  68_584,  1952,  México | D. F.    # UNAM
+
+##############
+# Estado de México
+
+Nemesio Díez, 27_000, 1954,  Toluca | Estado de México   # Toluca
+
+################
+# Jalisco
+
+Jalisco,  56_713,  1960,  Guadalajara | Jalisco    # Atlas
+Omnilife, 49_850,  2010,  Guadalajara | Jalisco    # Guadalajara
+
+##################
+# Nuevo León
+
+Tecnológico,   36_485,  1950, Monterrey | Nuevo León   # Monterrey
+Universitario, 42_000,  1967,  Monterrey | Nuevo León  # Tigres
+
+##################
+# Michoacán
+
+Morelos, 38_869, 1989,   Morelia | Michoacán   # Morelia
+
+###################
+# Hidalgo
+
+Hidalgo, 30_000,  1993,   Pachuca | Hidalgo   # Pachuca
+
+##################
+# Puebla
+
+Cuauhtémoc, 46_648, 1968,   Puebla | Puebla  # Puebla
+
+##################
+# Querétaro
+
+Corregidora, 34_130, 1985,   Querétaro | Querétaro    # Querétaro
+
+###############
+# Veracruz
+
+Luis "Pirata" Fuente,  30_000, 1968,  Veracruz | Veracruz   # Veracruz
+
+
+###################
+# Coahuila
+
+Corona, 30_000, 2009,  Torreón | Coahuila   #  Santos
+
+
+#################
+# Guanajuato
+
+León, 33_943,  1967,  León | Guanajuato     # León
+
+#################
+# Baja California
+
+Caliente, 24_000,  2007,  Tijuana | Baja California  # Tijuana
+
+
+################
+# Quintana Roo
+
+Olímpico Andrés Quintana Roo, 20_000, 2007,   Cancún | Quintana Roo    # Atlante
+
+
+##############
+# Chiapas
+
+Víctor Manuel Reyna, 31_500, 1982, Tuxtla Gutiérrez | Chiapas    # Chiapas
+
+
