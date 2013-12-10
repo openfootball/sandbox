@@ -2,7 +2,7 @@
 #######
 # RJ
 
-Estádio do Maracanã,   76_935,    Rio de Janeiro, RJ
+Maracanã|Estádio do Maracanã,   76_935,    Rio de Janeiro, RJ
 
 ######
 # DF
