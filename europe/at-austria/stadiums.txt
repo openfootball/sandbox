@@ -1,23 +1,44 @@
 ##############
 # Wien, W
 
-Ernst-Happel-Stadion, 53_295, Wien
+Ernst-Happel-Stadion,    53_295, Wien
+Gerhard-Hanappi-Stadion, 17_500, 1977, Wien
+Generali Arena,          13_135, 1925, Wien
+
+########################
+# Steiermark, ST
+
+UPC-Arena, 15_323, 1997, Graz
+
+########################
+# Oberoesterriech, O
+
+Keine Sorgen Arena, 7_334, 2003, Ried
+
+##################################
+# Niederoesterreich, N
+
+Wiener Neustädter Stadion, 7_036,  1955, Wiener Neustadt
+Bundesstadion Südstadt,    12_000, 1967, Maria Enzersdorf
 
 
 #############
 # Kaernten, K
 
-Hypo-Arena, 31_957, Klagenfurt
+Hypo-Arena,      31_957, Klagenfurt
+Lavanttal-Arena,  7_300, 1984, Wolfsberg
 
 
 ##############
 # Salzburg, S
 
-Wals-Siezenheim-Stadion, 31_020, Salzburg
+Red Bull Arena|Wals-Siezenheim-Stadion, 31_020, 2003, Salzburg (Wals-Siezenheim)
+Untersberg-Arena, 2_955, 1989,  Grödig
 
 
 #################
 # Tirol, T
 
-Tivoli-Neu Stadion, 31_600, Innsbruck
+Tivoli|Tivoli-Neu Stadion, 17_400, 2000,  Innsbruck
+
 
