@@ -1,31 +1,33 @@
-#############
+########################
+# see www.bundesliga.de/de/fanzone/stadien
+#
 # note: use $$ for sponsored/commercial name  e.g. $Signal Iduna$ Park, $Veltins$-Arena, etc.
 
 
 ##############
 # Berlin
 
-Olympiastadion,   74_176,   Berlin      # Hertha BSC
-Alte Försterei|Stadion An der Alten Försterei, 21_738, 1920, Berlin   # 1. FC Union Berlin
+Olympiastadion,   74_176, 1936,  Olympischer Platz 3 // 14053 Berlin    # Hertha BSC
+Alte Försterei|Stadion An der Alten Försterei, 21_738, 1920,  An der Wuhlheide 263 // 12555 Berlin   # 1. FC Union Berlin
 
 
 ##################
 # Brandenburg
 
-Stadion der Freundschaft, 22_528, 1930, Cottbus   # Energie Cottbus
+Stadion der Freundschaft, 22_528, 1930, Am Eliaspark 1 // 03042 Cottbus   # Energie Cottbus
 
 
 ################
 # Hamburg
 
-Volksparkstadion|$Imtech$ Arena,  51_055, 1953,  Hamburg   #  Hamburger SV
-Millerntor-Stadion, 29_633,  Hamburg   # FC St. Pauli
+Volksparkstadion|$Imtech$ Arena,  51_055, 1953, Sylvesterallee 7 // 22525 Hamburg  #  Hamburger SV
+Millerntor-Stadion, 29_633,  Auf dem Heiligengeistfeld // 20359 Hamburg   # FC St. Pauli
 
 
 #############
 # Bremen
 
-Weserstadion, 42_100,  Bremen  # Werder Bremen
+Weserstadion, 42_100, Franz-Böhmert-Straße 7 // 28205 Bremen  # Werder Bremen
 
 
 
@@ -37,7 +39,7 @@ Arena Auf Schalke|$Veltins$-Arena,  53_804,  Gelsenkirchen    # FC Schalke 04
 Müngersdorfer Stadion|$RheinEnergie$ Stadion,  46_134, 2004,  Köln    #  1. FC Köln
 Stadion im Borussia-Park, 54_049, Mönchengladbach   # Borussia Mönchengladbach 
 Ulrich-Haberland-Stadion|$Bay$Arena, 30_210, 1958, Leverkusen # Bayer 04 Leverkusen
-Düsseldorf Arena|$Esprit$ Arena, 54_600, 2005,  Düsseldorf  # Fortuna Düsseldorf
+Düsseldorf Arena|$Esprit$ Arena, 54_600, 2005, Arena-Straße 1 // 40474 Düsseldorf  # Fortuna Düsseldorf
 Ruhrstadion|$Rewirpower$-Stadion,  29_299, 1911,   Bochum  # VfL Bochum
 Bielefelder Alm|Alm-Stadion|$Schüco$ Arena,  27_300, 1926, Bielefeld   # Arminia Bielefeld
 $Benteler$-Arena, 15_000, 2008, Paderborn  # SC Paderborn 07
@@ -46,8 +48,8 @@ $Benteler$-Arena, 15_000, 2008, Paderborn  # SC Paderborn 07
 ###################
 # Bayern - BY
 
-$Allianz$ Arena, 66_016,  München   #  FC Bayern München, TSV 1860 München
-Frankenstadion|$Grundig$-Stadion,  41_926,  Nürnberg   #  1. FC Nürnberg
+$Allianz$ Arena, 66_016, 2005, Werner-Heisenberg-Allee 25 // 80939 München   #  FC Bayern München, TSV 1860 München
+Frankenstadion|$Grundig$-Stadion,  41_926,  Max-Morlock-Platz 1 // 90480 Nürnberg  #  1. FC Nürnberg
 Augsburg Arena|$SGL$ Arena, 30_660, 2009, Augsburg   # FC Augsburg
 Ronhof|Sportpark Ronhof|$Trolli$ Arena, 18_000, 1910, Fürth  # SpVgg Greuther Fürth
 $Audi$-Sportpark,  15_690, 2010,   Ingolstadt  # FC Ingolstadt 04
