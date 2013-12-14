@@ -1,38 +1,68 @@
+########################
+# see de.wikipedia.org/wiki/Liste_der_größten_Stadien_in_Österreich
+
+#
+# note: use $$ for sponsored/commercial name  e.g. $UPC$-Arena, $Generali$ Arena, $Casino$-Stadion etc.
+
+
 ##############
 # Wien, W
 
-Ernst-Happel-Stadion,    53_295, Wien
-Gerhard-Hanappi-Stadion, 17_500, 1977, Wien
-Generali Arena,          13_135, 1925, Wien
+Happel-Stadion|Ernst-Happel-Stadion|Praterstadion,    53_295, 1931, Wien
+Hanappi-Stadion|Gerhard-Hanappi-Stadion|Weststadion, 18_456, 1977, Wien
+Horr-Stadion|Franz-Horr-Stadion|$Generali$ Arena,          13_135, 1925, Wien
+Hohe Warte|Stadion Hohe Warte, 6_000,  Wien   # First Vienna FC
+Wiener Sportclub-Platz, 8_700, 1904, Wien
+Simmeringer Had, 5_000, 1920, Wien
+
 
 ########################
 # Steiermark, ST
 
-UPC-Arena, 15_323, 1997, Graz
+$UPC$-Arena, 15_323, 1997, Graz
+Gruabn,    10_500, 1919, Graz
+Franz-Fekete-Stadion,  12_000, 1950, Kapfenberg  # Kapfenberger SV
+Stadion Hartberg,   6_000, Hartberg              # TSV Hartberg
+
 
 ########################
-# Oberoesterriech, O
+# Oberösterreich, O
 
-Keine Sorgen Arena, 7_334, 2003, Ried
+Linzer Stadion|Stadion auf der Gugl, 20_104, 1952, Linz
+$Keine Sorgen$ Arena, 7_334, 2003, Ried
+Waldstadion, 7_152, Pasching
+Vorwärts-Stadion, 10_000, Steyr
+
 
 ##################################
-# Niederoesterreich, N
+# Niederösterreich, N
 
-Wiener Neustädter Stadion, 7_036,  1955, Wiener Neustadt
+Wiener Neustädter Stadion|Stadion Wiener Neustadt, 7_036,  1955, Wiener Neustadt
 Bundesstadion Südstadt,    12_000, 1967, Maria Enzersdorf
+$NV$-Arena|Niederösterreich-Arena, 8_000, 2012, St. Pölten    # SKN St. Pölten
+Voithplatz, 8_000, St. Pölten   # SKN St. Pölten Amateure
+Sportplatz Horn, 3_000, Horn   # SV Horn
+Sepp-Doll-Stadion|Kremserstadion, 10_000, 1923, Krems
+
+##############################
+# Burgenland, B
+
+Pappelstadion, 15_700, 1952, Mattersburg    # SV Mattersburg
+Heidebodenstadion, 5_000, Parndorf     # SC-ESV Parndorf
 
 
 #############
 # Kaernten, K
 
-Hypo-Arena,      31_957, Klagenfurt
-Lavanttal-Arena,  7_300, 1984, Wolfsberg
+Wörtherseestadion|$Hypo$-Arena,      32_000, 2008, Klagenfurt
+Lavanttal-Arena,  7_700, 2003, Wolfsberg
+Goldeckstadion, 6_500,  Spittal (an der Drau)
 
 
 ##############
 # Salzburg, S
 
-Red Bull Arena|Wals-Siezenheim-Stadion, 31_020, 2003, Salzburg (Wals-Siezenheim)
+Wals-Siezenheim-Stadion|$Red Bull$ Arena, 31_020, 2003, Salzburg (Wals-Siezenheim)   # use Wals-Siezenheim ??
 Untersberg-Arena, 2_955, 1989,  Grödig
 
 
@@ -40,5 +70,15 @@ Untersberg-Arena, 2_955, 1989,  Grödig
 # Tirol, T
 
 Tivoli|Tivoli-Neu Stadion, 17_400, 2000,  Innsbruck
+Kufstein Arena|Grenzlandstadion, 5_000, 1925, Kufstein
+Alpenstadion, 5_500, Wattens
 
+
+##############################
+# Vorarlberg, V
+
+Schnabelholz|$Cashpoint$ Arena, 8_500, 1990, Altach      # SC Rheindorf Altach
+Reichshofstadion, 8_800, 1953,  Lustenau   # SC Austria Lustenau
+Bodenseestadion|$Casino$-Stadion, 12_000, 1951  Bregenz
+Stadion Birkenwiese, 12_000, 1935, Dornbirn
 

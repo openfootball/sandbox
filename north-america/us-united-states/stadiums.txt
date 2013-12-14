@@ -4,35 +4,40 @@
 #
 # todo: add mls stadiums ???
 
+#
+#
+# note: use $$ for sponsored/commercial name  e.g $Toyota$ Stadium, $Sports Authority$ Field, etc.
+
+
 
 ####################
 # Californa, CA
 
 Rose Bowl, 92_542, Pasadena, CA   # Pasadena is a city in Los Angeles County - use Los Angeles?
 
-StubHub Center,  27_000,  2003,  Carson, CA      # Chivas USA, Los Angeles Galaxy
+$StubHub$ Center,  27_000,  2003,  Carson, CA      # Chivas USA, Los Angeles Galaxy
 
 #####################
 # Washington, WA
 
-CenturyLink Field, 67_000, Seattle, WA
+$CenturyLink$ Field, 67_000, Seattle, WA       # check if company/sponsored name?
 
 #####################
 # Colorado, CO
 
-Sports Authority Field at Mile High, 76_125, Denver, CO
-Dick's Sporting Goods Park, 18_086,  2007,  Commerce City, CO     # Colorado Rapids
+$Sports Authority$ Field, 76_125, Denver, CO     # check if company/sponsored name?
+Dick's Sporting Goods Park, 18_086,  2007,  Commerce City, CO     # Colorado Rapids  # check if company/sponsored name?
 
 
 ################
 # New Jersey, NJ
 
-Red Bull Arena,  25_189, 2010, Harrison, NJ     # New York Red Bulls
+$Red Bull$ Arena,  25_189, 2010, Harrison, NJ     # New York Red Bulls
 
 ####################
 # Pennsylvania
 
-PPL Park, 18_500,  2010,  Chester | Pennsylvania   # Philadelphia Union
+PPL Park, 18_500,  2010,  Chester | Pennsylvania   # Philadelphia Union   # check if company/sponsored name?
 
 #################
 # Georgia
@@ -42,7 +47,7 @@ Georgia Dome, 71_228,  Atlanta
 ##############
 #  Maryland
 
-M&T Bank Stadium, 71_008,  Baltimore
+$M&T Bank$ Stadium, 71_008,  Baltimore    # check if company/sponsored name?
 
 ##############
 # Washington, D.C.
@@ -54,7 +59,7 @@ RFK Memorial Stadium, 19_467,  1961, Washington | D.C.     # D.C. United
 #  Illinois
 
 Soldier Field, 61_500, Chicago
-Toyota Park, 20_000, 2006,  Bridgeview | Illinois      # Chicago Fire
+$Toyota$ Park, 20_000, 2006,  Bridgeview | Illinois      # Chicago Fire   # check if company/sponsored name?
 
 ##############
 # Ohio
@@ -65,15 +70,15 @@ Crew Stadium,  20_145,  1999,  Columbus | Ohio   # Columbus Crew
 ##############
 # Florida, FL
 
-Sun Life Stadium,   74_918, Miami (Miami Gardens), FL   # Miami Gardens is a suburban Miami city
+$Sun Life$ Stadium,   74_918, Miami (Miami Gardens), FL   # Miami Gardens is a suburban Miami city
 
 ################
 # Texas, TX
 
 
-BBVA Compass Stadium,  22_000, 2012, Houston, TX  # Houston Dynamo
+$BBVA$ Compass Stadium,  22_000, 2012, Houston, TX  # Houston Dynamo  # check if company/sponsored name?
 Cowboys Stadium,   80_000,  Arlington, TX    # within the Dallas–Fort Worth–Arlington metro area
-Toyota Stadium, 21_193, 2005,  Frisco, TX   # FC Dallas
+$Toyota$ Stadium, 21_193, 2005,  Frisco, TX   # FC Dallas
 
 ###############
 # Oregon
@@ -84,7 +89,7 @@ Jeld-Wen Field, 20_323,  1926,  Portland  # Portland Timbers
 #############
 # Utah
 
-Rio Tinto Stadium, 20_213,  Salt Lake City (Sandy)   # Sandy (City) - suburb of Salt Lake City
+Rio Tinto Stadium, 20_213,  Salt Lake City (Sandy)   # Sandy (City) - suburb of Salt Lake City  # check if company/sponsored name?
 
 
 #####################
@@ -96,8 +101,5 @@ Rentschler Field,  40_000,  East Hartford
 ###############
 # Massachusetts
 
-Gillette Stadium,  22_385, 2002, Foxborough | Massachusetts   # New England Revolution
-
-
-
+$Gillette$ Stadium,  22_385, 2002, Foxborough | Massachusetts   # New England Revolution
 

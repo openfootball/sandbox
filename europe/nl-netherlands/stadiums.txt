@@ -1,0 +1,4 @@
+
+Amsterdam ArenA,    51_628, 1996, Amsterdam   # Ajax Amsterdam
+Stadion Feijenoord|De Kuip, 51_137, 1937, Rotterdam   # Feyenoord Rotterdam
+

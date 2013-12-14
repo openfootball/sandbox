@@ -1,0 +1,7 @@
+
+Stadio Olimpico di Roma,     72_698, 1927,   Roma   # AS Roma, Lazio Roma
+
+Stadio San Nicola,       58_248, 1990, Bari  # AS Bari
+Stadio Giuseppe Meazza|San Siro, 80_074, 1926,   Milano  # AC Milano, Inter Milano
+Stadio San Paolo,        60_240, 1959, Napoli   # SSC Napoli 
+
