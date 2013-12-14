@@ -14,7 +14,7 @@ Nemesio Díez, 27_000, 1954,  Toluca | Estado de México   # Toluca
 # Jalisco
 
 Jalisco,  56_713,  1960,  Guadalajara | Jalisco    # Atlas
-$Omnilife$, 49_850,  2010,  Guadalajara | Jalisco    # Guadalajara    # check if company/sponsored name?
+Guadalajara|$Omnilife$, 49_850,  2010,  Guadalajara | Jalisco    # Guadalajara    # check if company/sponsored name?
 
 ##################
 # Nuevo León
@@ -52,7 +52,7 @@ Luis "Pirata" Fuente,  30_000, 1968,  Veracruz | Veracruz   # Veracruz
 ###################
 # Coahuila
 
-$Corona$, 30_000, 2009,  Torreón | Coahuila   #  Santos    # check if company/sponsored name?
+Moctezuma|$Corona$, 30_000, 2009,  Torreón | Coahuila   #  Santos
 
 
 #################
