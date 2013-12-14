@@ -1,6 +1,12 @@
+########################
+# Stadiums in Canada
+#
+# note: use $$ for sponsored/commercial name  e.g $Saputo$ Stadium, etc.
+
+
 #####################
 # Quebec
 
-Saputo Stadium,  20_341, 2008, Montreal | Quebec   # Montreal Impact  # check if company/sponsored name e.g. Saputo is a company?
+$Saputo$ Stadium,  20_341, 2008, Montreal | Quebec   # Montreal Impact
 
 

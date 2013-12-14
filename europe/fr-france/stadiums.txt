@@ -1,5 +1,5 @@
 
 Stade de France, 81_338, 1998, Paris (Saint-Denis) # use Saint-Denis??
 
-Stade Vélodrome, 60_031, 1937, Marseille  # Olympique Marseille
+Stade VÃ©lodrome, 60_031, 1937, Marseille  # Olympique Marseille
 
