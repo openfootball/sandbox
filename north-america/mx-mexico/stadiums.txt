@@ -1,80 +1,165 @@
-######################################
-# México, D. F (Distrito Federal)
+####################################
+# México (Distrito Federal), D.F.
 
-Azteca,                 105_064,  1966,  México | D. F.    # clubs: América
-Azul,                    35_161,  1947,  México | D. F.    # Cruz Azul
-Olímpico Universitario,  68_584,  1952,  México | D. F.    # UNAM
+[azteca]
+  Estadio Azteca|Azteca, 1966
+  105_084
+  es.wikipedia: Estadio_Azteca
+  Calzada de Tlalpan 3465 // México, D.F.
+  clubs: América
 
-##############
-# Estado de México
+[azul]
+  Estadio Azul|Azul, 1946
+  40_000
+  es.wikipedia: Estadio_Azul
+  Indiana 260, Col. Nápoles // México | D. F.
+  clubs: Cruz Azul
 
-Nemesio Díez, 27_000, 1954,  Toluca | Estado de México   # Toluca
+[olimpicouniversitario]
+  Estadio Olímpico Universitario|Olímpico Universitario, 1952
+  70_500
+  es.wikipedia: Estadio_Olímpico_Universitario
+  Av. Insurgents Sur s/n, Ciudad Universitaria, Coyoacán // México, D.F. C.P. 08400
+  clubs: UNAM
+
+
+
+#############################
+# Estado de México, Edomex.
+
+[nemesiodiez]
+  Estadio Nemesio Díez|Nemesio Díez, 1954
+  27_000
+  Constituyentes No. 1000, Col. La Merced // Toluca, Estado de México
+  clubs: Toluca
 
 ################
 # Jalisco
 
-Jalisco,  56_713,  1960,  Guadalajara | Jalisco    # Atlas
-Guadalajara|$Omnilife$, 49_850,  2010,  Guadalajara | Jalisco    # Guadalajara    # check if company/sponsored name?
+[jalisco]
+  Estadio Jalisco|Jalisco, 1960
+  56_713
+  es.wikipedia: Estadio_Jalisco
+  Calle Siete Colinas 1772, Col. Independencia // Guadalajara, Jalisco
+  clubs: Atlas
+
+[guadalajara]
+  Estadio Guadalajara|Estadio $Omnilife$|$Omnilife$, 2010
+  49_850
+  Av. Vallarta y Anillo Periférico, Zona Metropolitana de Guadalajara // Zapopan (Guadalajara), Jalisco
+  clubs: Guadalajara
+
 
 ##################
 # Nuevo León
 
-Tecnológico,   36_485,  1950, Monterrey | Nuevo León   # Monterrey
-Universitario, 42_000,  1967,  Monterrey | Nuevo León  # Tigres
+[tecnologico]
+  Estadio Tecnológico|Tecnológico, 1950
+  36_485
+  Av. Junco de la Vega s/n Col. Estadio // Monterrey, Nuevo León
+  clubs: Monterrey
+
+[universitario]
+  Estadio Universitario|Universitario,  1967
+  42_000,
+  Av. Universidad s/n, San Nicolás de los Garza // Monterrey | Nuevo León
+  clubs: Tigres
+
 
 ##################
 # Michoacán
 
-Morelos, 38_869, 1989,   Morelia | Michoacán   # Morelia
+[morelos]
+  Estadio Morelos|Morelos, 1989
+  38_869
+  Libramiento Norte s/n, Col. Leandro Valle // Morelia, Michoacán
+  clubs: Morelia
+
 
 ###################
 # Hidalgo
 
-Hidalgo, 30_000,  1993,   Pachuca | Hidalgo   # Pachuca
+[hidalgo]
+  Estadio Hidalgo|Hidalgo,  1993
+  30_000
+  Blvd Felipe Ángeles s/n, Col. Santa Julia // Pachuca | Hidalgo
+  clubs: Pachuca
 
 ##################
 # Puebla
 
-Cuauhtémoc, 46_648, 1968,   Puebla | Puebla  # Puebla
+[cuauhtemoc]
+  Estadio Cuauhtémoc|Cuauhtémoc,  1968
+  46_648
+  Calz. Ignacio Zaragoza s/n, Col. Unidad Deportiva Puebla // Puebla, Puebla
+  clubs: Puebla
 
 ##################
 # Querétaro
 
-Corregidora, 34_130, 1985,   Querétaro | Querétaro    # Querétaro
+[corregidora]
+  Estadio La Corregidora|La Corregidora|Corregidora,  1985
+  34_130
+  Av. de las Torres s/n, Col. Colinas del Cimatario // Querétaro, Querétaro
+  clubs: Querétaro
 
 
 ###############
 # Veracruz
 
-Luis "Pirata" Fuente,  30_000, 1968,  Veracruz | Veracruz   # Veracruz
+[luispiratafuente]
+  Estadio Luis "Pirata" Fuente|Luis "Pirata" Fuente,  1968
+  30_000
+  Av. Paseos Jacarandas y Paseo Jardín Fraccionamiento Virginia Boca del Río // Veracruz, Veracruz
+  clubs: Veracruz
 
 
 ###################
 # Coahuila
 
-Moctezuma|$Corona$, 30_000, 2009,  Torreón | Coahuila   #  Santos
+[moctezuma]
+  Estadio Moctezuma|Estadio $Corona$, 2009
+  30_000
+  Calz. Territorio Santos Modelo No. 1, Col. Conjunto de Todos los Santos // Torreón, Coahuila
+  clubs: Santos
 
 
 #################
 # Guanajuato
 
-León, 33_943,  1967,  León | Guanajuato     # León
+[leon]
+  Estadio León|León|Estadio Nou Camp, 1967
+  33_943
+  Boulevard Adolfo López Mateos 1810, Col. La Martinica // León, Guanajuato
+  clubs: León
+
 
 #################
 # Baja California
 
-Caliente, 24_000,  2007,  Tijuana | Baja California  # Tijuana
+[caliente]
+  Estadio Caliente|Caliente,  2007
+  24_000
+  Boulevard Agua Caliente 12027, Col. Hipódromo // Tijuana, Baja California
+  clubs: Tijuana
 
 
 ################
 # Quintana Roo
 
-Olímpico Andrés Quintana Roo, 20_000, 2007,   Cancún | Quintana Roo    # Atlante
+[andresquintanaroo]
+  Estadio Olímpico Andrés Quintana Roo|Olímpico Andrés Quintana Roo, 2007
+  18_500
+  Av. Mayapan, Kabah y Av. La Luna s/n, Colonia Centro // Cancún, Quintana Roo
+  clubs: Atlante
 
 
 ##############
 # Chiapas
 
-Víctor Manuel Reyna, 31_500, 1982, Tuxtla Gutiérrez | Chiapas    # Chiapas
-
+[victormanuelreyna]
+  Estadio Zoque Víctor Manuel Reyna|Víctor Manuel Reyna, 1982
+  31_500
+  Calz. de las Etnias s/n, esq. Blvd Fidel Velázquez, Col. Infonavit el Grijalva // Tuxtla Gutiérrez, Chiapas
+  clubs: Chiapas
 
