@@ -1,0 +1,27 @@
+##################
+# all fixtures
+
+africa:
+- africa/ma-morocco/stadiums
+- africa/za-south-africa/stadiums
+
+europe:
+- europe/at-austria/stadiums
+- europe/ch-switzerland/stadiums
+- europe/de-deutschland/stadiums
+- europe/en-england/stadiums
+- europe/es-espana/stadiums
+- europe/fr-france/stadiums
+- europe/it-italy/stadiums
+- europe/nl-netherlands/stadiums
+- europe/pl-poland/stadiums
+- europe/pt-portugal/stadiums
+- europe/ua-ukraine/stadiums
+
+north-america:
+- north-america/ca-canada/stadiums
+- north-america/mx-mexico/stadiums
+- north-america/us-united-states/stadiums
+
+south-america:
+- south-america/br-brazil/stadiums
