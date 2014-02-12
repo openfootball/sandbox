@@ -79,6 +79,6 @@ Alpenstadion, 5_500, Wattens
 
 Schnabelholz|$Cashpoint$ Arena, 8_500, 1990, Altach      # SC Rheindorf Altach
 Reichshofstadion, 8_800, 1953,  Lustenau   # SC Austria Lustenau
-Bodenseestadion|$Casino$-Stadion, 12_000, 1951  Bregenz
+Bodenseestadion|$Casino$-Stadion, 12_000, 1951,  Bregenz
 Stadion Birkenwiese, 12_000, 1935, Dornbirn
 

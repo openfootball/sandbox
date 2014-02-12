@@ -37,7 +37,7 @@ $Red Bull$ Arena,  25_189, 2010, Harrison, NJ     # New York Red Bulls
 ####################
 # Pennsylvania
 
-$PPL$ Park, 18_500,  2010,  Chester | Pennsylvania   # Philadelphia Union
+$PPL$ Park, 18_500,  2010,  Chester // Pennsylvania   # Philadelphia Union
 
 
 #################
@@ -53,14 +53,14 @@ $M&T Bank$ Stadium, 71_008,  Baltimore
 ##############
 # Washington, DC
 
-RFK Memorial Stadium, 19_467,  1961, Washington | DC     # D.C. United
+RFK Memorial Stadium, 19_467,  1961, Washington // DC     # D.C. United
 
 
 ################
 #  Illinois, IL
 
 Soldier Field, 61_500,1924, 1410 S Museum Campus Drive // Chicago | IL 60605
-$Toyota$ Park, 20_000, 2006,  Bridgeview | Illinois      # Chicago Fire
+$Toyota$ Park, 20_000, 2006,  Bridgeview // Illinois      # Chicago Fire
 
 
 ##############
@@ -104,5 +104,5 @@ Rentschler Field,  40_000, 2003, 615 Silver Lane // East Hartford | CT 06118
 ###############
 # Massachusetts
 
-$Gillette$ Stadium,  22_385, 2002, Foxborough | Massachusetts   # New England Revolution
+$Gillette$ Stadium,  22_385, 2002, Foxborough // Massachusetts   # New England Revolution
 
