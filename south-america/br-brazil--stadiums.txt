@@ -1,0 +1,61 @@
+
+#######
+# RJ
+
+Maracanã|Estádio do Maracanã,   76_935,    Rio de Janeiro, RJ
+
+######
+# DF
+
+Nacional de Brasília|Estádio Nacional (Mané Garrincha)|Mané Garrincha,  70_042,  Brasília, DF
+
+########
+# SP
+
+Corinthians|Arena Corinthians|Arena de São Paulo,  68_000,  São Paulo, SP
+
+##########
+# CE
+
+Castelão|Estádio Castelão,  64_846, Fortaleza, CE
+
+###########
+# MG
+
+Mineirão|Estádio Mineirão, 62_547, Belo Horizonte, MG
+
+#########
+# BA
+
+Fonte Nova|Arena Fonte Nova, 56_000, Salvador, BA
+
+###########
+# MT
+
+Pantanal|Arena Pantanal, 42_968,  Cuiabá, MT
+
+############
+# AM
+
+Amazônia|Arena Amazônia,  42_374,  Manaus, AM
+
+###########
+# RN
+
+Das Dunas|Arena das Dunas, 42_086,  Natal, RN
+
+##############
+# RS
+
+Beira-Rio|Estádio Beira-Rio, 51_300, Porto Alegre, RS
+
+##############
+# PE
+
+Pernambuco|Arena Pernambuco, 46_154,  Recife, PE
+
+##############
+# PR
+
+Da Baixada|Arena da Baixada,  43_981, Curitiba, PR
+
