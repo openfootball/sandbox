@@ -1,11 +1,10 @@
 ###############################################
 # Stadiums in Poland (pl)
 
-National Stadium, 56_070, Warszawa   # Warsaw (en)
+National Stadium Warszawa, 56_070, Warszawa   # Warsaw (en)
 
 PGE Arena,  39_150,   Gdańsk
 
 Municipal Stadium Wrocław, 40_000,  Wrocław
 
 Municipal Stadium Poznań, 39_550,  Poznań 
-
