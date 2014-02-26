@@ -1,3 +1,11 @@
 ################################
 # Stadiums in Ukraine (ua)
 
+Olympic Stadium, 64_640, Kiev 
+
+Donbass Arena, 49_400, Donetsk
+
+Metalist Stadium, 37_750, Kharkiv 
+
+Arena Lviv, 32_990, Lviv 
+
