@@ -1,0 +1,32 @@
+##############
+# Stadiums 
+
+# -- Africa
+
+africa/ma-morocco--stadiums
+africa/za-south-africa--stadiums
+
+# -- Europe
+
+europe/at-austria--stadiums
+europe/ch-switzerland--stadiums
+europe/de-deutschland--stadiums
+europe/en-england--stadiums
+europe/es-espana--stadiums
+europe/fr-france--stadiums
+europe/it-italy--stadiums
+europe/nl-netherlands--stadiums
+europe/pl-poland--stadiums
+europe/pt-portugal--stadiums
+europe/ua-ukraine--stadiums
+
+# -- North America
+
+north-america/ca-canada--stadiums
+north-america/mx-mexico--stadiums
+north-america/us-united-states--stadiums
+
+# -- South America
+
+south-america/br-brazil--stadiums
+
