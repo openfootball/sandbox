@@ -23,6 +23,12 @@ Castelão|Estádio Castelão,  64_846, Fortaleza, CE
 # MG
 
 Mineirão|Estádio Mineirão, 62_547, Belo Horizonte, MG
+# club: Cruzeiro
+
+## -- todo/check: check if is proper portuges name?
+Estadio Independência, 23_018, Belo Horizonte, MG
+# club: Atlético Mineiro
+
 
 #########
 # BA
@@ -58,4 +64,8 @@ Pernambuco|Arena Pernambuco, 46_154,  Recife, PE
 # PR
 
 Da Baixada|Arena da Baixada,  43_981, Curitiba, PR
+
+## -- todo/check: check if is proper portuges name?
+Estadio Durival de Britto e Silva, 20_083, Curitiba, PR
+# club: Atlético Paranaense
 

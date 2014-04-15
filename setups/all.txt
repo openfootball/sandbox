@@ -28,5 +28,14 @@ north-america/us-united-states--stadiums
 
 # -- South America
 
+south-america/ar-argentina--stadiums
+south-america/bo-bolivia--stadiums
 south-america/br-brazil--stadiums
+south-america/cl-chile--stadiums
+south-america/co-colombia--stadiums
+south-america/ec-ecuador--stadiums
+south-america/pe-peru--stadiums
+south-america/py-paraguay--stadiums
+south-america/uy-uruguay--stadiums
+south-america/ve-venezuela--stadiums
 

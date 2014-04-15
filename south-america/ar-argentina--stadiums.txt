@@ -1,0 +1,12 @@
+
+Estadio José Amalfitani,  49_540, Buenos Aires
+# club: Vélez Sarsfield
+
+
+Estadio Nuevo Gasómetro, 43_995, Buenos Aires
+# club: San Lorenzo
+
+
+Estadio Ciudad de Lanús|Néstor Díaz Pérez, 47_027, Lanús
+# club: C.A. Lanús
+
