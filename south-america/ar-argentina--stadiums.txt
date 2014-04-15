@@ -10,3 +10,11 @@ Estadio Nuevo Gasómetro, 43_995, Buenos Aires
 Estadio Ciudad de Lanús|Néstor Díaz Pérez, 47_027, Lanús
 # club: C.A. Lanús
 
+
+Estadio Marcelo Bielsa, 42_000, Rosario
+# club: Newell's Old Boys
+
+
+Estadio Julio Humberto Grondona, 16_300, Sarandí
+# club: Arsenal
+

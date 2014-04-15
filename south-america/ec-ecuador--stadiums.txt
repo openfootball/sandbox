@@ -2,3 +2,6 @@
 Estadio Rumiñahui, 7_500, Sangolquí
 # club: Independiente del Valle
 
+Estadio George Capwell, 24_019, Guayaquil
+# club: Emelec
+

@@ -3,6 +3,7 @@
 # RJ
 
 Maracanã|Estádio do Maracanã,   76_935,    Rio de Janeiro, RJ
+# club: Flamengo
 
 ######
 # DF
@@ -54,6 +55,11 @@ Das Dunas|Arena das Dunas, 42_086,  Natal, RN
 # RS
 
 Beira-Rio|Estádio Beira-Rio, 51_300, Porto Alegre, RS
+
+## -- todo/check: check if is proper portuges name?
+Arena do Grêmio, 60_540, Porto Alegre, RS
+# Club: Grêmio
+
 
 ##############
 # PE
