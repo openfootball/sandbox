@@ -63,6 +63,7 @@ Dreisamstadion|$Mage Solar$ Stadion, 24_000, 1954,  Freiburg (im Breisgau)  # SC
 Wildparkstadion, 29_699, 1955, Karlsruhe  # Karlsruher SC
 Städtisches Waldstadion Aalen|$Scholz$ Arena, 13_251, 1949, Aalen  # VfR Aalen
 Hardtwaldstadion, 12_100, 1951, Sandhausen # SV Sandhausen
+Albstadion|$Voith$-Arena, 15_000, Heidenheim # 1. FC Heidenheim 1846
 
 
 ##################
@@ -70,7 +71,7 @@ Hardtwaldstadion, 12_100, 1951, Sandhausen # SV Sandhausen
 
 Waldstadion|$Commerzbank$-Arena, 48_132, Frankfurt    #  Eintracht Frankfurt
 Stadion am Bornheimer Hang|$Frankfurter Volksbank$ Stadion, 12_542, 1931, Frankfurt   # FSV Frankfurt
-
+Jonathan-Heimes-Stadion am Böllenfalltor, 17_468, Darmstadt # SV Darmstadt 98
 
 ####################
 # Niedersachsen
