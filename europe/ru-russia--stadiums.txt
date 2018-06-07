@@ -23,5 +23,5 @@ Fisht|Fisht Stadium|Fisht Olympic Stadium, 45_000, Sochi
 Saint Petersburg|Saint Petersburg Stadium|Krestovsky Stadium|Zenit Arena, 67_000, Saint Petersburg
 
 
-Spartak|Spartak Stadium|Otkritie Arena,  45_000, Moscow
+Spartak|Spartak Stadium|Otkritie Arena|Otkrytiye Arena,  45_000, Moscow
 Luzhniki|Luzhniki Stadium, 80_000, Moscow
