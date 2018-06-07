@@ -1,0 +1,27 @@
+################################
+# Stadiums in Russia (ru)
+
+
+Samara|Samara Arena|Cosmos Arena,   45_000, Samara
+
+Nizhny Novgorod|Nizhny Novgorod Stadium,  45_000, Nizhny Novgorod
+
+Volgograd|Volgograd Arena, 45_000, Volgograd
+
+Ekaterinburg|Ekaterinburg Arena|Central Stadium, 35_000, Ekaterinburg
+
+Mordovia|Mordovia Arena, 44_000, Saransk
+
+Rostov|Rostov Arena, 45_000, Rostov-on-Don
+
+Kaliningrad|Kaliningrad Stadium|Arena Baltika,  35_000, Kaliningrad
+
+Kazan|Kazan Arena, 45_000, Kazan
+
+Fisht|Fisht Stadium|Fisht Olympic Stadium, 45_000, Sochi
+
+Saint Petersburg|Saint Petersburg Stadium|Krestovsky Stadium|Zenit Arena, 67_000, Saint Petersburg
+
+
+Spartak|Spartak Stadium|Otkritie Arena,  45_000, Moscow
+Luzhniki|Luzhniki Stadium, 80_000, Moscow

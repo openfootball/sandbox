@@ -1,5 +1,5 @@
 ##############
-# Stadiums 
+# Stadiums
 
 # -- Africa
 
@@ -18,7 +18,9 @@ europe/it-italy--stadiums
 europe/nl-netherlands--stadiums
 europe/pl-poland--stadiums
 europe/pt-portugal--stadiums
+europe/ru-russia--stadiums
 europe/ua-ukraine--stadiums
+
 
 # -- North America
 
@@ -38,4 +40,3 @@ south-america/pe-peru--stadiums
 south-america/py-paraguay--stadiums
 south-america/uy-uruguay--stadiums
 south-america/ve-venezuela--stadiums
-
