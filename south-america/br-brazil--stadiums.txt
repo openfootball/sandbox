@@ -2,76 +2,82 @@
 #######
 # RJ
 
-Maracanã|Estádio do Maracanã,   76_935,    Rio de Janeiro, RJ
+maracana, Estádio do Maracanã|Maracanã,   76_935,    Rio de Janeiro, RJ
 # club: Flamengo
+
 
 ######
 # DF
 
-Nacional de Brasília|Estádio Nacional (Mané Garrincha)|Mané Garrincha,  70_042,  Brasília, DF
+nacionaldebrasilia, Estádio Nacional (Mané Garrincha)|Mané Garrincha|Nacional de Brasília,  70_042,  Brasília, DF
 
 ########
 # SP
 
-Corinthians|Arena Corinthians|Arena de São Paulo,  68_000,  São Paulo, SP
+corinthians, Arena Corinthians|Corinthians|Arena de São Paulo,  68_000,  São Paulo, SP
 
 ##########
 # CE
 
-Castelão|Estádio Castelão,  64_846, Fortaleza, CE
+castelao, Estádio Castelão|Castelão,  64_846, Fortaleza, CE
+
 
 ###########
 # MG
 
-Mineirão|Estádio Mineirão, 62_547, Belo Horizonte, MG
+mineirao, Estádio Mineirão|Mineirão, 62_547, Belo Horizonte, MG
 # club: Cruzeiro
 
 ## -- todo/check: check if is proper portuges name?
-Estadio Independência, 23_018, Belo Horizonte, MG
+independencia, Estadio Independência, 23_018, Belo Horizonte, MG
 # club: Atlético Mineiro
 
 
 #########
 # BA
 
-Fonte Nova|Arena Fonte Nova, 56_000, Salvador, BA
+fontenova, Arena Fonte Nova|Fonte Nova, 56_000, Salvador, BA
+
 
 ###########
 # MT
 
-Pantanal|Arena Pantanal, 42_968,  Cuiabá, MT
+pantanal, Arena Pantanal|Pantanal, 42_968,  Cuiabá, MT
+
 
 ############
 # AM
 
-Amazônia|Arena Amazônia,  42_374,  Manaus, AM
+amazonia, Arena Amazônia|Amazônia,  42_374,  Manaus, AM
 
 ###########
 # RN
 
-Das Dunas|Arena das Dunas, 42_086,  Natal, RN
+
+dasdunas, Arena das Dunas|Das Dunas, 42_086,  Natal, RN
 
 ##############
 # RS
 
-Beira-Rio|Estádio Beira-Rio, 51_300, Porto Alegre, RS
+beirario, Estádio Beira-Rio|Beira-Rio, 51_300, Porto Alegre, RS
 
 ## -- todo/check: check if is proper portuges name?
-Arena do Grêmio, 60_540, Porto Alegre, RS
+arenadogremio, Arena do Grêmio, 60_540, Porto Alegre, RS
 # Club: Grêmio
 
 
 ##############
 # PE
 
-Pernambuco|Arena Pernambuco, 46_154,  Recife, PE
+pernambuco, Arena Pernambuco|Pernambuco, 46_154,  Recife, PE
+
 
 ##############
 # PR
 
-Da Baixada|Arena da Baixada,  43_981, Curitiba, PR
+dabaixada, Arena da Baixada|Da Baixada,  43_981, Curitiba, PR
+
 
 ## -- todo/check: check if is proper portuges name?
-Estadio Durival de Britto e Silva, 20_083, Curitiba, PR
+estadiodurivaldebrittoesilva, Estadio Durival de Britto e Silva, 20_083, Curitiba, PR
 # club: Atlético Paranaense
-
