@@ -9,4 +9,5 @@ Estadio Benito Villamarín,  51_309, 1929,  Sevilla   # Betis Sevilla
 Estadio Olímpico de Sevilla, 57_619, 1997, Sevilla
 
 Estadio Mestalla, 52_602, 1923, Valencia # FC Valencia
-
+Estadi Ciutat de València|Estadio Ciudad de Valencia, 26_354, Valencia      # Levante
+Coliseum Alfonso Pérez|Coliseum, 16_500, Getafe     # Getafe
