@@ -6,6 +6,10 @@
 africa/ma-morocco--stadiums
 africa/za-south-africa--stadiums
 
+# -- Asia
+
+asia/qa-qatar--stadiums
+
 # -- Europe
 
 europe/at-austria--stadiums

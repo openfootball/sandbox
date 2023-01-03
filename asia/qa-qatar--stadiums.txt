@@ -1,0 +1,11 @@
+############################
+# World Cup 2022 stadiums
+
+Lusail Stadium|Lusail Iconic Stadium, 88_966, Lusail
+Al Bayt Stadium, 68_895, Al Khor
+Khalifa International Stadium, 45_857, Al Rayyan
+Ahmad bin Ali Stadium, 45_032, Al Rayyan
+Education City Stadium, 44_667, Al Rayyan
+Al Thumama Stadium, 44_400, Doha
+Stadium 974, 44_089, Doha
+Al Janoub Stadium, 44_325, Al Wakrah
