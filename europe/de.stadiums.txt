@@ -12,38 +12,41 @@
 ## use (74_176) for capacity - why? why not?
 ##    maybe only needed for small grounds (2140) etc ???
 
+# todo/fix - auto-add city via address (no need to duplicate!!!)
+
+
 
 == Berlin ==
 
-Olympiastadion,   74_176, 1936            # Hertha BSC
+Olympiastadion,   74_176, 1936, Berlin            # Hertha BSC
    | Olympiastadion Berlin     ## (always) auto-add city to canonical name - why? why not?
    Olympischer Platz 3 // 14053 Berlin    
 
-Alte Försterei, 21_738, 1920              # 1. FC Union Berlin
+Alte Försterei, 21_738, 1920, Berlin              # 1. FC Union Berlin
   | Stadion An der Alten Försterei
   An der Wuhlheide 263 // 12555 Berlin
 
 
 == Brandenburg ==
 
-Stadion der Freundschaft, 22_528, 1930     # Energie Cottbus
+Stadion der Freundschaft, 22_528, 1930, Cottbus     # Energie Cottbus
    Am Eliaspark 1 // 03042 Cottbus   
 
 
 == Hamburg ==
 
-Volksparkstadion,  51_055, 1953            #  Hamburger SV 
+Volksparkstadion,  51_055, 1953, Hamburg            #  Hamburger SV 
   | $Imtech$ Arena
   | Volksparkstadion Hamburg     ## auto-add city name - why? why not?
   Sylvesterallee 7 // 22525 Hamburg  
 
-Millerntor-Stadion, 29_633                 # FC St. Pauli
+Millerntor-Stadion, 29_633, Hamburg                 # FC St. Pauli
   Auf dem Heiligengeistfeld // 20359 Hamburg (St. Pauli)   
 
 
 == Bremen ==
 
-Weserstadion, 42_100                       # Werder Bremen
+Weserstadion, 42_100,  Bremen                     # Werder Bremen
   | $Wohninvest$ Weserstadion
   Franz-Böhmert-Straße 7 // 28205 Bremen  
 
@@ -74,7 +77,7 @@ Ulrich-Haberland-Stadion, 30_210, 1958, Leverkusen  # Bayer 04 Leverkusen
   | $Bay$Arena Leverkusen
   Bismarckstraße 122-124 // 51373 Leverkusen
 
-Düsseldorf Arena, 54_600, 2005      # Fortuna Düsseldorf
+Düsseldorf Arena, 54_600, 2005,  Düsseldorf      # Fortuna Düsseldorf
   | $Esprit$ Arena
   Arena-Straße 1 // 40474 Düsseldorf
 
@@ -97,13 +100,13 @@ Paderborner Stadion, 15_000, 2008, Paderborn    # SC Paderborn 07
 
 == Bayern ==
 
-$Allianz$ Arena, 66_016, 2005                    # FC Bayern München
+$Allianz$ Arena, 66_016, 2005,  München                    # FC Bayern München
   | München Fußball Arena       # euro 2024 name
   | Fußball Arena München       # euro 2024 name
   | Munich Football Arena [en]  # euro 2024 name
   Werner-Heisenberg-Allee 25 // 80939 München   
 
-Max-Morlock-Stadion,  41_926                    # 1. FC Nürnberg
+Max-Morlock-Stadion,  41_926, Nürnberg                    # 1. FC Nürnberg
   | Frankenstadion
   | $Grundig$-Stadion  
   Max-Morlock-Platz 1 // 90480 Nürnberg  
@@ -138,11 +141,11 @@ Rhein-Neckar-Arena,  30_150,  2009, Sinsheim     # TSG 1899 Hoffenheim
   Dietmar-Hopp-Straße 1 // 74889 Sinsheim
 
 
-Europa-Park Stadion, 34_700,  2021, Freiburg (im Breisgau)  # SC Freiburg (new)
+Europa-Park Stadion, 34_700,  2021, Freiburg   # SC Freiburg (new)
   | Mooswaldstadion
   Achim-Stocker-Straße 1 // 79108 Freiburg (im Breisgau)
 
-Dreisamstadion, 24_000, 1954,  Freiburg (im Breisgau)  # SC Freiburg  (before)
+Dreisamstadion, 24_000, 1954,  Freiburg   # SC Freiburg  (before)
   | $Mage Solar$ Stadion
 
 
@@ -153,10 +156,10 @@ Städtisches Waldstadion Aalen, 13_251, 1949, Aalen  # VfR Aalen
   | $Scholz$ Arena
   Stadionweg 5 // 73430 Aalen
 
-Hardtwaldstadion, 12_100, 1951, Sandhausen # SV Sandhausen
+Hardtwaldstadion, 12_100, 1951, Sandhausen    # SV Sandhausen
   Jahnstraße 1 // 69207 Sandhausen
 
-Albstadion, 15_000, Heidenheim # 1. FC Heidenheim 1846
+Albstadion, 15_000, Heidenheim    # 1. FC Heidenheim 1846
   | $Voith$-Arena
   Schloßhaustraße 162 // 89522 Heidenheim an der Brenz
 
