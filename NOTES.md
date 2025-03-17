@@ -8,4 +8,6 @@
 - [ ] add captain marker e.g. `(c)` or `[c]`  - why? why not??
 - [ ] add to rounds `Eightfinals`
 - [ ] add support for minutes e.g. `90+'` and `45+'` - why? why not?
+- [ ]  add (optional) country code to coach e.g. Volker Finke (GER) - why? why not?
+- [ ] add `manager` as alt name for `coach/trainer`
 

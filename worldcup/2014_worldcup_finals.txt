@@ -1,0 +1,26 @@
+= World Cup 2014
+
+# see https://www.rsssf.org/tables/2014full.html
+
+
+
+» Final
+
+13.07. @ Rio de Janeiro, Estádio Jornalista Mário Filho 'Maracanã'  # attn: 74738
+GERMANY - ARGENTINA           1-0   [After extra time] 
+   Mario Götze 113'
+           
+Germany:            Manuel Neuer - Philipp Lahm, Jérôme Boateng, Mats Hummels,
+                    Benedikt Höwedes - Bastian Schweinsteiger - Thomas Müller, 
+                    Christoph Kramer (André Schürrle 32'), Toni Kroos, 
+                    Mesut Özil (Per Mertesacker 120') - Miroslav Klose (Mario Götze 88');
+                    coach: Joachim Löw
+Argentina:          Sergio Romero - Pablo Zabaleta, Martín Demichelis, Ezequiel Garay,
+                    Marcos Rojo -  Ezequiel Lavezzi (Sergio Agüero 46'), Lucas Biglia,
+                    Javier Mascherano, Enzo Pérez (Fernando Gago 86') - 
+                    Lionel Messi, Gonzalo Higuaín (Rodrigo Palacio 78');
+                    coach: Alejandro Sabella
+Referee:            Nicola Rizzoli (ITA)
+Yellow Cards:       Bastian Schweinsteiger 29', Benedikt Höwedes 34';
+                    Javier Mascherano 64', Sergio Agüero 65'
+

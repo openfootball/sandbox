@@ -13,12 +13,16 @@
 # European play-offs drawn 13 Oct 1997 in Zürich. Finals drawn 4 Dec 1997 in Marseilles.
 
 
+Group A | BRA  MAR  NOR  SCO
+Group B | AUT  CAM  CHI  ITA
+Group C | ARS  DAN  FRA  SAF
+
+
 
 
 » Group Stage
 
-Group A | BRA MAR NOR SCO
-
+Group A
 
 10.06.1998 16.30 @ St.Denis, Stade de France
 
@@ -132,7 +136,8 @@ sent off: Burley (54)
 3. MAR          3  1 1 1  4  5-5
 4. SCO          3  0 1 2  1  2-6
 
-Group B - AUT CAM CHI ITA
+
+Group B 
 
 
 11.06.98  (16.30) Bordeaux, Stade Lescure
@@ -248,7 +253,8 @@ sent off: Song (52), Etame (89)
 3. AUT          3  0 2 1  2  3-4
 4. CAM          3  0 2 1  2  2-5
 
-Group C - ARS DAN FRA SAF
+
+Group C 
 
 
 12.06.98  (16.30) Lens, Stade Felix Bollaert
