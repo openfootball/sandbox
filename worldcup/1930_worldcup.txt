@@ -48,7 +48,7 @@ ARG: Bossio - Della Tore, Muttis - J.Evaristo, Monti, Arico Suárez -
 FRA: Thépot - Capelle, Mattles - Chantrel, Pinel, Villaplane - 
      Libérati, Delfour, Maschinot, Laurent, Langiller
 
-1-0 Monti 81'   # what is f qualifier?  (penalty??)
+1-0 Monti 81'  
 
 # -----------
 
@@ -64,12 +64,12 @@ CHI: Cortés - Poirier, Morales - A.Torres, Saavedra, Elgueta -
 MEX: Sota - R. Guitiérez, M.Rosas - Amescùa, Sánchez,
      F.Rosas - López, Gayón, Ruiz, Carreño, Pérez
 
-1-0 Vidal 3', 2-0 M. Rosas 52' (og), 3-0 Vidal 65'   ## note assume o qualifier is o.g.
+1-0 Vidal 3', 2-0 M. Rosas 52' (og), 3-0 Vidal 65'  
+
+# -----------
 
 
 __END__
-
-# -----------
 
 19.07.30  (12.50) Montevideo, Centenario
 

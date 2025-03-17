@@ -1,0 +1,1250 @@
+= World Cup 1998
+
+##  using/trying a rsssf-like format
+## see https://www.rsssf.org/tables/98full.html
+
+
+## France, 10 June - 12 July 1998 
+#  (Bordeaux, Lens, Lyon, Marseilles, Montpellier, Nantes, Paris, St.Denis, St.Etienne, Toulouse).
+# Decided by FIFA Executive Committee 9 Jul 1992.
+# Entries deadline 30 Sep 1995. 
+# 174 teams entered, 170 actually played (32 for the first time). 
+# Qualifications drawn 12 Dec 1995 in Paris. 
+# European play-offs drawn 13 Oct 1997 in Zürich. Finals drawn 4 Dec 1997 in Marseilles.
+
+
+
+
+» Group Stage
+
+Group A | BRA MAR NOR SCO
+
+
+10.06.1998 16.30 @ St.Denis, Stade de France
+
+BRA - SCO 2-1 (1-1)
+
+# (~80000) Garcia-Aranda ESP, Arango COL, Tresaco ESP
+
+BRA: Taffarel - Cafú, Aldair, Baiano - Roberto Carlos, César Sampaio,
+     Dunga, Giovanni (46' Leonardo), Rivaldo - Ronaldo, Bebeto (70' Denilson)
+SCO: Leighton - Calderwood, Hendry, Boyd - Burley, Dailly (85' T.McKinlay), 
+     Lambert, Collins, Durie - Jackson (79' B.McKinlay), Gallacher
+
+1-0 César Sampaio 5', 1-1 Collins 38' (p), 2-1 Boyd 73' (og)
+
+booked: Aldair, César Sampaio; Jackson
+
+# -------
+
+
+10.06. 20.00 @ Montpellier, Stade de la Mosson
+
+NOR - MAR 2-2 (1-1)
+
+# (-30000) Um-Prasert THA, Hamid MYS, Wickeramantunge SRI
+
+NOR: Grodås - Johnsen, Berg, Bjørnebye, Eggen - Leonhardsen,
+     T.A.Flo (72' Solbakken), Rekdal, Mykland - H.Flo, Solskjær (46' Riseth)
+MAR: Benzekri - El Hadrioui, Chippo (78' Anzine), Rossi, Naybet -
+     Chiba, Hadda (87' El Khattabi), Saber, Bassir - Hadji, El Khalej (90+' Azzouzi)
+
+0-1 Hadji 38', 1-1 Chippo 45+' (og), 1-2 Hadda 59', 2-2 Eggen 60'
+
+booked: Chiba
+
+# -------
+
+
+__END__
+
+
+16.06.98  (16.30) Bordeaux, Stade Lescure
+
+SCO - NOR 1:1 (0:0)
+
+(+30000) Vagner HUN, Rausis SUI, Amler CZE
+
+SCO: Leighton - Boyd, Calderwood (59 Weir), Hendry (c), Gallagher -
+Burley, Durie, Collins, Jackson (61 McNamara) - Lambert, Dailly
+NOR: Grodås (c) - Johnsen, Berg (81 Halle), Bjørnebye (c), Eggen - Strand,
+Rekdal, H. Flo (60 Jakobsen), Solbakken - T.A.Flo, Riseth (71 Ostenstad)
+
+0:1 H.Flo 46, 1:1 Burley 66
+
+booked: Durie, Jackson / Rekdal, Berg
+
+-------
+
+16.06.96  (20.00) Nantes, Stade Atlantique
+
+BRA - MAR 3:0 (2:0)
+
+(-34000) Levnikov RUS, Dupanov BLR, Warren ENG
+
+BRA: Taffarel - Cafú, Aldair, Junior Baiano, Roberto Carlos -
+César Sampaio (68 Doriva), Dunga (c), Leonardo (87 Denilson), Rivaldo -
+Bebeto (72 Edmundo), Ronaldo
+MAR: Benzekri - El Hadrioui, Chippo, Rossi, Naybet (c) - Chiba (76
+Anzine), Hadda (88 El Khattabi), Saber (76 Abrami), Bassir - Hadji, El Khalej
+
+1:0 Ronaldo 9, 2:0 Rivaldo 45+, 3:0 Bebeto 50
+
+booked: César Sampaio, Junior Baiano / Hadda, Chiba
+
+-------
+
+23.06.98  (21.00) Marseilles, Stade Vélodrome
+
+NOR - BRA 2:1 (0:0)
+
+(~60000) Baharmast USA, Dante MLI, Maksei ITA
+
+NOR: Grodås (c) - Berg, Eggen, Johnsen, Bjørnebye - Leonhardsen,
+Riseth (79 J.Flo), Rekdal, Strand (46 Mykland) - T.A.Flo, H.Flo (68 Solskjær).
+BRA: Taffarel - Cafú, Baiano, Gonçalves, Roberto Carlos - Dunga (c),
+Leonardo, Denilson, Rivaldo - Bebeto, Ronaldo
+
+0:1 Bebeto 79, 1:1 T.A.Flo 83, 2:1 Rekdal 89 p
+
+booked: Leonhardsen, Mykland
+
+-------
+
+23.06.98  (21.00) St.Etienne, Stade G.Guichard
+
+MAR - SCO 3:0 (1:0)
+
+(+30000) Bujsaim EMI, Torres COS, Fred VAN
+
+MAR: Benzekri - Saber (72 Rossi), Naybet (c), Amzine (76 Azzouzi) -
+Abrami, El Khalej, Hadji, Chippo (87 Sellami), Triki - Bassir, Hadda
+SCO: Leighton -  Boyd, Weir, Hendry, Dailly - McNamara (55 McKinlay),
+Burley, Lambert, Collins - Gallacher (c), Durie (83 Booth)
+
+1:0 Bassir 22, 2:0 Hadda 47, 3:0 Bassir 84
+
+booked: Chippo / Gallacher
+sent off: Burley (54)
+
+1. BRA^         3  2 0 1  6  6-3
+2. NOR^         3  1 2 0  5  5-4
+3. MAR          3  1 1 1  4  5-5
+4. SCO          3  0 1 2  1  2-6
+
+Group B - AUT CAM CHI ITA
+
+
+11.06.98  (16.30) Bordeaux, Stade Lescure
+
+ITA - CHI 2:2 (1:1)
+
+(+31000) Bouchardeau NIG, Mansri TUN, Dante MLI
+
+ITA: Pagliuca - Maldini (c), Cannavaro, Nesta, Costacurta - Di Livio
+(60 Chiesa), D.Baggio, Albertini, Di Matteo (56 Di Biagio) - R.Baggio,
+Vieri (70 Inzaghi)
+CHI: Tapia - Fuentes, Rojas, Acuña (81 Cornejo), Margas (62
+Ramirez) - Reyes, Villaroel, Estay (80 Sierra), Parraguez - Zamorano (c),
+Salas
+
+1:0 Vieri 10, 1:1 Salas 45+ h, 1:2 Salas 49, 2:2 R.Baggio 85 p
+
+booked: Chiesa, Di Livio, Cannavaro / Rojas, Acuña, Parraguez
+
+-------
+
+11.06.98  (20.00) Toulouse, Stade Municipal
+
+AUT - CAM 1:1 (0:0)
+
+(+33000) González PAR, Galván PAR, Salinas HON
+
+AUT: Konsel - Schöttel, Pfeffer, Feiersinger, Pfeiffenberger (83
+Stöger) - Cerny (83 Haas), Wetl, Mählich, Kühbauer - Herzog (83 Vastic),
+Polster (c)
+CAM: Songo'o - Wome, Song, Kalla, Njanka - Mboma, Simo (66 Olembe),
+Angibeaud, Ndo, Ipoua (66 Job), Omam Biyik (c - 85 Tchami)
+
+0:1 Njanka 78, 1:1 Polster 90+
+
+booked: Pfeffer / Ipoua
+
+-------
+
+17.06.98  (16.30) St. Etienne, Stade G.Guichard
+
+AUT - CHI 1:1 (0:0)
+
+(-32000) Ghandour EGY, Ghadanfari KUW, Tresaco ESP
+
+AUT: Konsel - Feiersinger, Schöttel, Pfeffer, Cerny (46 Schoop) -
+Pfeiffenberger (46 Herzog) Kühbauer, Mählich, Wetl - Haas (74 Vastic),
+Polster (c)
+CHI: Tapia - Fuentes, Villaroel (67 Castanida), Margas, Rojas - Reyes,
+Acuña, Parragues, Estay (57 Sierra) - Zamorano (c), Salas
+
+0:1 Salas 70, 1:1 Vastic 90+
+
+booked: Schöttel / Villaroel, Salas, Estay, Zamorano
+
+-------
+
+17.06.98  (20.00) Montpellier, Stade de la Mosson
+
+ITA - CAM 3:0 (1:0)
+
+(~35000) Lennie AUS, Rossi ARG, Fred VAN
+
+ITA: Pagliuca - Maldini (c), Costacurta, Cannavaro, Nesta - Moriero
+(83 Di Livio), Albertini (62 Di Matteo), D.Baggio, Di Biagio - Vieri,
+R.Baggio (65 Del Piero)
+CAM: Songo'o - Wome, Song, Kalla, Njanka - Olembe, Angibeaud,
+Mboma (66 Eto'o), Ndo - Ipoua (46 Job), Omam Biyik (c - 66 Tchami)
+
+1:0 Di Biagio 8 h, 2:0 Vieri 79, 3:0 Vieri 85
+
+booked: Costacurta, Di Biagio / Song, Njanka, Wome, Angibeaud
+sent-off: Kalla (43)
+
+-------
+
+23.06.98  (15.00) St.Denis, Stade de France
+
+ITA - AUT 2:1 (0:0)
+
+(~80000) Durkin ENG, Jeon Young-hyun KOR, Warren ENG
+
+ITA: Pagliuca - Nesta (4 Bergomi), Costacurta, Cannavaro, Maldini (c) -
+Moriero, D.Baggio, Di Biagio, Pessotto - Vieri (60 Inzaghi), Del Piero (72
+R.Baggio)
+AUT: Konsel - Schöttel, Feiersinger, Pfeffer - Wetl, Mählich, Pfeifenberger
+(79 Herzog), Kühbauer (74 Stöger) - Vastic, Polster (c - 62 Haas), Reinmayer
+
+1:0 Vieri 49 h, 2:0 R.Baggio 90, 2:1 Herzog 90+ p
+
+booked: Maldini / Feiersinger, Vastic, Schöttel
+
+-------
+
+23.06.98  (15.00) Nantes, Stade Atlantique
+
+CHI - CAM 1:1 (1:0)
+
+(~40000) Vagner HUN, Wickeramatunge SRI, Abdul Hamid MAR
+
+CHI: Tapia - Fuentes, Margas, Reyes - Villarroel (70 Cornejo), Rojas
+(77 Ramirez), Acuña, Parraguez, Sierra (70 Estay) - Zamorano (c), Salas
+CAM: Songo'o - Njanka, Song, Pensee, Wome - Ndo (83 Etame), Mahouve,
+Olembe (69 Angibeaud), Job (73 Tchami) - Mboma, Omam-Biyik (c)
+
+1:0 Sierra 20 f, 1:1 Mboma 55 h
+
+booked: Rojas, Parraguez, Villaroel, Ramirez / Song
+sent off: Song (52), Etame (89)
+
+1. ITA^         3  2 1 0  7  7-3
+2. CHI^         3  0 3 0  3  4-4
+3. AUT          3  0 2 1  2  3-4
+4. CAM          3  0 2 1  2  2-5
+
+Group C - ARS DAN FRA SAF
+
+
+12.06.98  (16.30) Lens, Stade Felix Bollaert
+
+DAN - ARS 1:0 (0:0)
+
+(-39000) Castrilli ARG, Rossi ARG, Diaz Galvez CHI
+
+DAN: Schmeichel - Schjönberg, Rieper, Høgh, Colding - Helveg, Sand,
+Wieghorst (65 A.Nielsen), B.Laudrup (83 Heintze) - M.Laudrup (c), Jørgensen
+(73 Frandsen)
+ARS: Al Deayea - Al Jahani, Al Khlaiwi, Zebramawi, Amin (c - 79 Hamzah
+Saleh) - Al Shahrani, Al Jaber (83 Al Thumiyan), Sulimani, Khamis - Al
+Ouwairan (79 O.Al Dosari), Al Mowalad
+
+1:0 Rieper 69 h
+
+booked: Wieghorst, Rieper, A.Nielsen / Al Mowalad
+
+-------
+
+12.06.98  (20.00) Marseilles, Stade Vélodrome
+
+FRA - SAF 3:0 (1:0)
+
+(+55000) de Freitas BRA, Pinto Filho BRA, Gonzalez TRI
+
+FRA: Barthéz - Lizarazu, Blanc (c), Deschamps, Desailly - Djorkaeff
+(82 Trézeguet), Guivarc'h (26 Dugarry), Thuram, Zidane - Henry, Petit (72
+Boghossian)
+SAF: Vonk - Nyathi, Jackson, Issa, Radebe (c) - Fortune, Moshoeu, Fish,
+Augustine (56 Mkhalele) - McCarthy (89 Bartlett), Masinga
+
+1:0 Dugarry 34 h, 2:0 Issa 77 o, 3:0 Henry 90+
+
+booked: Zidane, Deschamps, Petit / Jackson
+
+18.06.98  (16.30) Toulouse, Stade Municipal
+
+DAN - SAF 1:1 (1:0)
+
+(+37000) Toro COL, Arango COL, Galván PAR
+
+DAN: Schmeichel - Schjönberg (82 Wieghorst), Rieper, Høgh, Colding -
+Helveg, A.Nielsen, M.Laudrup (c - 58 Molnar), Jørgensen - B.Laudrup, Sand
+(58 Heintze)
+SAF: Vonk - Issa, Fish, Mkalele, Nyathi (89 Buckley), Radebe (c) -
+Mosheu, Fortune, Augustine (46 Phiri) - Bartlett (78 Masinga), McCarthy
+
+1:0 A.Nielsen 13, 1:1 McCarthy 52
+
+booked: Schmeichel, Høgh, Schjönberg / Issa, Nyathi, Radebe, Phiri
+sent off: Molnar (67), Wieghorst (85) / Phiri (70)
+
+-------
+
+18.06.98  (20.00) St.Denis, Stade de France
+
+FRA - ARS 4:0 (1:0)
+
+(~75000) Brizio Carter MEX, Torres COS, Salinas HON
+
+FRA: Barthéz - Thuram, Blanc, Desailly, Lizarazu - Boghossian,
+Deschamps (c), Henry (77 Pires), Dioméde (58 Djorkaeff) - Zidane, Dugarry
+(30 Trézeguet)
+ARS: Al Deayea - Al Jahani (75 A.Al Dosari), Al Khlaiwi, Zebramawi,
+Soulaimani - Al Shahrani, K.Al Dosari,  Amin (c), Saleh - Al Jaber,
+S.Al Ouwairan (33 Maater, 63 Al Mouwalid)
+
+1:0 Henry 36, 2:0 Trézeguet 69 h, 3:0 Henry 79, 4:0 Lizarazu 85
+
+booked: Blanc, Lizarazu / Al Jahani, Al Jaber
+sent off: Zidane (71) / Al Khlaiwi (19)
+
+-------
+
+24.06.98  (15.00) Lens, Stade Felix Bollaert
+
+FRA - DAN 2:1 (1:1)
+
+(~44000) Collina ITA, van den Broeck BEL, Zammit MLT
+
+FRA: Barthéz - Karembeu, Leboeuf, Desailly (c), Candela - Vieira, Petit
+(65 Boghossian), Pires (72 Henry), Djorkaeff - Dioméde, Trezéguet
+(86 Guivarc'h)
+DAN: Schmeichel - Laursen (46 Colding), Rieper, Høgh, Heintze -
+Jørgensen (55 Sand), Helveg, Nielsen, M.Laudrup (c) - Schönberg,
+B.Laudrup (75 Tøfting)
+
+1:0 Djorkaeff 23 p, 1:1 M.Laudrup 42 p, 2:1 Petit 56
+
+booked: Vieira, Dioméde / Colding, Tøfting
+
+-------
+
+24.06.98  (15.00) Bordeaux, Stade Lescure
+
+ARS - SAF 2:2 (1:1)
+
+ARS: Al Deayea - Al Jahani, Zubromawi, Sulimani - Al Temyat, Amin,
+Saleh, Al Dossari - Al Mehalel (65 Al Shahrani), Al Jaber, Al Thuniyan (c - 81
+Al Harbi)
+SAF: Vonk - Issa, Jackson (46 Buckley), Fish, Radebe (c) - Mkhalele,
+Moshoeu, Nyathi, Fortune (67 Khumalo) - McCarthy, Bartlett
+
+0:1 Bartlett 19, 1:1 Al Jaber 45 p, 2:1 Al Tunian 73 p, 2:2 Bartlett 90+ p
+
+booked: Dossari / Fortune, Radebe
+
+1. FRA^         3  3 0 0  9  9-1
+2. DAN^         3  1 1 1  4  3-3
+3. RPA          3  0 2 1  2  3-6
+4. ARS          3  0 1 2  1  2-7
+
+Group D - BUL ESP NGA PAR
+
+
+12.06.98  (13.00) Montpellier, Stade de la Mosson
+
+BUL - PAR 0:0
+
+(-28000) Al Zeid ARS, Salie SAF, Ghadanfari KUW
+
+BUL: Zdravkov - Kischischev, Ivanov (c), Petkov, Nankov - Yankov,
+Penev (68 Kostadinov), Illiev (78 Borimirov), Iordanov - Stoichkov, Balakov
+PAR: Chilavert (c) - Gamarra, Ayala, Cardozo (70 Ramirez), Acuña -
+Sarabia, Enciso, Morales (41 Caniza), Campos (78 Vegros) - Benitez, Paredes
+
+booked: Nankov, Stoichkov, Ivanov, Nankov (2) / Benitez
+sent off: Nankov (89)
+
+-------
+
+13.06.98  (13.30) Nantes, Stade Atlantique
+
+NGA - ESP 3:2 (1:1)
+
+(~39000) Baharmast USA, Torres COS, Dupanov BLR
+
+NGA: Rufai - Oparaku (70 Yekini), West, Okechukwu, Babayaro - Finidi,
+Oliseh, Okocha, Lawal (90 G.Okpara) - Ikpeba (83 Babangida), Adepoju
+ESP: Zubizarreta (c) - Ferrer (46 Amor), Nadal (76 Celades), Alkorta,
+Sergi - Alfonso, Hierro, Ivan Campo - Luis Enrique, Kiko, Raúl (75
+Etxeberria)
+
+0:1 Hierro 21 f, 1:1 Adepoju 22 h, 1:2 Raúl 47, 2:2 Lawal 73, 3:2 Oliseh 79
+
+booked: Okechukwu / Amor, Nadal, Ivan Campo
+
+NOTE: Some sources award Lawal's goal to Zubizarreta's own goal.
+
+-------
+
+19.06.98  (16.30) Paris, Parc des Princes
+
+NGA - BUL 1:0 (1:0)
+
+(~49000) Sánchez CHI, Diaz CHI, Pinto Filho BRA
+
+NGA: Rufai - West, Ochechukwu (c), Babayaro - Adepoju, Finidi (85
+Babangida), Oliseh, Okocha, Lawal - Ikpeba (76 Yekini), Amokachi (67 Kanu)
+BUL: Zdravkov - Ivanov (c), Gintchev, Petkov, Kischischev - Jankov (85
+Batchev), Khristov (46 Borimirov), Iliev (69 Penev), Balakov - Stoichkov,
+Kostadinov
+
+1:0 Ipkeba 27
+
+booked: Adepoju, Ochechukwu, Okocha, Ipkeba / Illev, Kischischev
+
+-------
+
+19.06.98  (20.00) St. Etienne, Stade G.Guichard
+
+ESP - PAR 0:0
+
+(-38000) McLeod SCO, Powell JAM, Soldatos SAF
+
+ESP: Zubizarreta (c) - Aguilera, Abelardo (56 Celades), Alkorta,
+Sergi - Hierro, Amor, Luis Enrique, Raúl (66 Kiko) - Etxeberria, Pizzi
+(53 Morientes)
+PAR: Chilavert (c) - Arce, Ayala, Gamarra, Sarabia, Caniza -  Acuna
+(73 Yegros), Benitez, Enciso - Campos (46 Paredes), A.Rojas (83 Ramirez)
+
+booked: Sergi, Kiko / Ayala, Arce
+
+-------
+
+24.06.98  (20.00) Lens, Stade Felix Bollaert
+
+ESP - BUL 6:1 (2:0)
+
+(~41000) van der Ende HOL, Rossi ARG, Grigorescu ROM
+
+ESP: Zubizarreta (c) - Aguilera, Hierro, Alkorta, Sergi - Luis Enrique
+(70 J.Guerrero), Amor, Nadal - Alfonso (65 Kiko), Morientes, Etxeberria (52
+Raúl)
+BUL: Zdravkov - Nankov (29 Penev), Ivanov (c), Kischischev -
+Borimirov, Gintchev, Jordanov, Balakov (60 Khristov), Batchev - Stoichkov
+(46 Iliew), Kostadinov
+
+1:0 Hierro 6 p, 2:0 Luis Enrique 19, 3:0 Morientes 53, 3:1 Kostadinov 56,
+4:1 Morientes 81, 5:1 Kiko 86, 6:1 Kiko 88 h
+
+booked: Aguilera, J.Guerrero / Penev, Batchev
+
+NOTE: Some sources award the last goal to Batchev's own goal.
+
+-------
+
+24.06.98  (20.00) Toulouse, Stade Muncipal
+
+PAR - NGA 3:1 (1:1)
+
+(~34000) Um-Prasert THA, Al-Musawi GMA, Nilsson SWE
+
+PAR: Chilavert - Arce, Ayala, Gamarra, Sarabia, Caniza (54 Yegros) -
+Paredes, Benitez (67 Acuna), Enciso - Cardozo, Brizuela (77 A.Rojas)
+NGA: Rufai - Eguavoen, Iroha, West, Okafor - Oliseh (46 Okpara), Oruma
+(68 Finidi), Lawal - Babangida, Yekini, Kanu
+
+1:0 Ayala 1 (53 sec), 1:1 Oruma 11, 2:1 Benitez 59, 3:1 Cardoso 86
+
+booked: Iroha, Eguavoen
+
+1. NGA^         3  2 0 1  6  5-5
+2. PAR^         3  1 2 0  5  3-1
+3. ESP          3  1 1 1  4  8-4
+4. BUL          3  0 1 2  1  1-7
+
+Group E - BEL KOR HOL MEX
+
+
+13.06.98  (16.30) Lens, Stade Felix Bollaert
+
+MEX - KOR 3:1 (0:1)
+
+(~40000) Bonkö AUT, Fred VAN, Schneider GER
+
+MEX: Campos - Pardo, Lara, Davino, Luna (46 Arellano) - Suarez, Garcia
+Aspe (c - 72 Bernal), Ordiales (46 Pelaez), Ramirez - Hernández, Blanco
+KOR: Kim Byung-ji - Kim Tae-young, Lee Min-sung, Hong Myung-bo, Ko
+Jong-soo (72 Seo Jung-won), Lee Sang-yoon - Kim Do-keun (61 Choi Sung-yong),
+Ha Seok-ju, Yoo Sang-chul (c), Noh Jung-yoon (56 Jang Hyung-seok) - Kim
+Do-hoon
+
+0:1 Ha Seok-ju 20 f, 1:1 Pelaez 54, 2:1 Hernández 74, 3:1 Hernández 84
+
+booked: Ordiales, Garcia Aspe / Lee Min-sung
+sent off: Ha Seok-ju (30)
+
+13.06.98  (20.30) St.Denis, Stade de Paris
+
+BEL - HOL 0:0
+
+(~75000) Collina ITA, Mazzei ITA, Zammit MLT
+
+BEL: de Wilde - Grasson (22 Deflandre), Staelens, Verstraeten,
+Borkelmans - van der Elst (c), Clement, Boffin, Wilmots - Nilis, Oliveira (59
+L.Mpenza)
+HOL: van der Sar - Winter, F.de Boer (c), Stam, Numan - Seedorf (65
+Zenden), R.de Boer (79 Jonk), Cocu, Overmars - Kluivert, Hasselbaink (65
+Bergkamp)
+
+booked: Staelens, Deflandre
+sent off: Kluivert (79)
+
+-------
+
+20.06.98  (16.30) Bordeaux, Stade Lescure
+
+BEL - MEX 2:2 (1:0)
+
+(~36000) Dallas SCO, Al-Muzawi OMA, Foley NIR
+
+BEL: de Wilde - Deflandre, Staelens, Vidovic, Borkelmans - Boffin
+(18 Verheyen), van der Elst (c - 67 de Boeck), Scifo - Wilmots, Nilis (77
+L.Mpenza), Oliviera
+MEX: Campos - Pardo, Sanchez, Davino, Suarez - Palencia (46 Arellano),
+Garcia Aspe (c - 68 Lara), Ordiales (58 Villa), Ramirez - Blanco, Hernández
+
+1:0 Wilmots 43, 2:0 Wilmots 48, 2:1 Garcia Aspe 56 p, 2:2 Blanco 63
+
+booked: Vidovic / Ramirez, Blanco (after first half)
+sent off: Verheyen (55) / Pardo (29)
+
+-------
+
+20.06.98  (20.00) Marseilles, Stade Vélodrome
+
+HOL - KOR 5:0 (2:0)
+
+(~55000) Wójcik POL, Pocięgiel POL, Dupanov BUL
+
+HOL: van der Sar - Winter, F.de Boer (c), Stam, Numan (80 Bogarde) -
+R.de Boer (84 Zenden), Jonk, Davids, Overmars - Bergkamp (78 van Hooijdonk),
+Cocu
+KOR: Kim Byung-ji - Hong Myung-bo, Lee Min-sung, Choi Young-il (c),
+Choi Sung-yong (53 Kim Tae-young) - Lee Sang-yoon, Kim Do-keun, Seo Jung-won
+(75 Lee Dong-gook), Yoo Sang-chul - Choi Yong-soo, Kim Do-hoon (70 Ko
+Jong-soo)
+
+1:0 Cocu 37, 2:0 Overmars 41, 3:0 Bergkamp 71, 4:0 van Hooijdonk 79, 5:0
+R.de Boer 83
+
+booked; Choi Yong-soo, Ko Jong-soo
+
+-------
+
+25.06.98  (15.00) St.Etienne
+
+HOL - MEX 2:2 (2:0)
+
+(~36000) Al-Zaid ARS, Ghandafari KUW, Tresaco ESP
+
+HOL: van der Sar - Reiziger, Stam, F.de Boer (c), Numan (73 Bogarde) -
+R.de Boer, Jonk (71 Winter), Davids, Overmars - Bergkamp (79 Hasselbaink),
+Cocu
+MEX: Campos - Carmona, Sánchez (55 Pelaez), Davino, Suarez - Villa,
+Garcia Aspe (c), Luna (46 Arellano), Ramirez - Blanco, Hernández
+
+1:0 Cocu 4, 2:0 R.de Boer 19, 2:1 Pelaez 75, 2:2 Hernández 90+
+
+booked: Stam, Numan / Villa, Hernández, Carmona, Pelaez
+sent off: Ramirez (89)
+
+-------
+
+25.06.98  (15.00) Paris, Parc des Princes
+
+BEL - KOR 1:1 (1:0)
+
+(~47000) de Freitas BRA, Arango COL, Pinto Filho BRA
+
+BEL: van de Walle - Deflandre, Staelens, Vidovic, Borkelmans - Scifo
+(c - 66 van der Elst), Clement (75 L.Mpenza), van Kerckhoven - Wilmots,
+Oliveira (46 M.Mpenza), Nilis
+KOR: Kim Byung-ji - Lee Min-sung, Lee Sang-hun (66 Jang Hyung-seok),
+Kim Tae-young, Hong Hyung-bo - Choi Song-yong (46 Lee Lim-seang), Kim Do-keun
+(46 Ko Jong-soo), Ha Seok-ju, Yoo Sang-chul (c) - Choi Yong-soo, Seo Jung-won
+
+1:0 Nilis 6, 1:1 Yoo-Sang chul 71
+
+booked: Borkelmans / Kim Tae-young, Lee Lim-saeng, Lee Min-sung, Kim Byung-ji
+
+1. HOL^         3  2 1 0  7  7-2
+2. MEX^         3  1 2 0  5  7-5
+3. BEL          3  0 3 0  3  3-3
+4. KOR          3  0 1 2  1  2-9
+
+Group F - GER IRN JUG USA
+
+
+14.06.98  (13.30) St.Etienne, Stade G.Guichard
+
+JUG - IRN 1:0 (0:0)
+
+(+38000) Tejada PER, Powell JAM, Pocięgiel POL
+
+JUG: Kralj - Mirković, Djorović, Jokanović, Brnović (50 Stanković) -
+Jugović, Petrović, Milošević (85 Ognjenović), Mijatović - Stojković (c - 68
+Kovačević), Mihajlović
+IRN: Nakisa - Mahdavi, Khakpour, Estili, Khani (c) - Zanricheh,
+Pashazadeh, Minavand, Daei - Bagheri, Azizi
+
+1:0 Mihajlović 72 f
+
+booked: Petrović, Stojković
+
+-------
+
+15.06.98  (20.00) Paris, Parc des Princes
+
+GER - USA 2:0 (1:0)
+
+(+44000) Belgola MAR, Manari TUN, Nilsson SWE
+
+GER: Köpke - Worns, Köhler, Thon - Jeremies, Reuter (68 Ziege),
+Möller (86 Babbel), Häßler (50 Hamann), Heinrich - Bierhoff, Klinsmann (c)
+USA: Keller - Dooley (c), Pope, Regis, Jones - Burns (46 Hejduk),
+Deering (70 Ramos), Maisonneuve, Stewart, Reyna - Wynalda (65 Wegerle)
+
+1:0 Möller 8 h, 2:0 Klinsmann 65
+
+booked: Jeremies, Hamann, Heinrich / Hejduk, Pope
+
+-------
+
+21.06.98  (13.30) Lens, Stade Felix Bollaert
+
+GER - JUG 2:2 (0:1)
+
+(+41000) Nielsen DAN, van den Broeck BEL, Zammit MLT
+
+GER: Köpke - Thon, Wörns, Kohler, Heinrich - Jeremies, Hamann (46
+Matthäus), Ziege (67 Tarnat) - Möller (58 Kirsten), Klinsmann (c), Bierhoff
+JUG: Kralj - Komljenović, Mihajlović, Djorović, Petrović (74 Stević) -
+Stanković (68 Govedarica), Jokanović, Jugović, Stojković (c) - Mijatović,
+Kovačević (58 Ognjenović)
+
+0:1 Mijatović 13, 0:2 Stojković 54, 1:2 Mihajlović 73 o, 2:2 Bierhoff 80 h
+
+booked: Matthäus
+
+NOTE: Some sources award the first goal to Stojković and the
+third goal to Tarnat.
+
+-------
+
+21.06.98  (20.00) Lyon, Stade Garland
+
+IRN - USA 2:1 (1:0)
+
+(-44000) Meier URS, Rausis SUI, Grigorescu ROM
+
+IRN: Abedzadeh - Mahdavikia, Khakpour, Estili, Zarincheh (77 Saadavi) -
+Khani (74 Payrani), Pahsazadeh, Minnavand - Bagheri, Daei, Azizi (73
+Mansourian)
+USA: Keller - Hedjuk, Pope, Dooley (c - 82 Maisonneuve), Regis -
+Wegerle (57 Radosavljevic), Moore, Ramos (57 Stewart), Jones - McBride, Reyna
+
+1:0 Estili 40 h, 2:0 Mahdavikia 84, 2:1 McBride 87 h
+
+booked: Minavand, Zanricheh / Regis
+
+-------
+
+25.06.98  (20.00) Montpellier, Stade de la Mosson
+
+GER - IRN 2:0 (0:0)
+
+(-35000) González PAR, Diaz CHI, Galván PAR
+
+GER: Köpke - Wörns, Kohler, Matthäus, Helmer - Thon (46 Hamann),
+Heinrich, Tarnat (76 Ziege), Häßler (69 Kirsten) - Klinsmann (c), Bierhoff
+IRN: Abedzadeh (c) - Mahdavikia, Khakpour, Estili, Zarincheh (70 Din
+Mohammadi) - Pashzadeh, Khani, Minnavand, Daei - Azizi, Bagheri
+
+1:0 Bierhoff 50 h, 2:0 Klinsmann 57
+
+booked: Klinsmann, Häßler / Daei
+
+-------
+
+25.06.98  (20.00) Nantes, Stade Atlantique
+
+JUG - USA 1:0 (1:0)
+
+(-37000) Ghandour EGY, Salie RSA, Warren ENG
+
+JUG: Kralj - Djorović, Komljenović, Petrović, Jokanović - Jugović,
+Stojković (c - 62 Savićević), Mihajlović, Stanković (55 Brnović) - Mijatović
+(31 Ognjenović), Milošević
+USA: Friedel - Regis, Hejduk (64 Wynalda), Dooley (c - 82 Balboa),
+Burns - Jones, Reyna, Maisonneuve, Moore (58 Radovsavljevic) - McBride,
+Stewart
+
+1:0 Komljenović 4 h
+
+booked; Stanković, Ognjenović / Reyna
+
+1. GER^         3  2 1 0  7  6-2
+2. JUG^         3  2 1 0  7  4-2
+3. IRN          3  1 0 2  3  2-4
+4. USA          3  0 0 3  0  1-5
+
+Group G - COL ENG ROM TUN
+
+
+15.06.98  (13.30) Marseilles, Stade Vélodrome
+
+ENG - TUN 2:0 (1:0)
+
+(-55000) Okada JAP, Jeon Young-hyun KOR, Dante MLI
+
+ENG: Seaman - Southgate, Adams, Campbell, Ince - Anderton, Batty,
+Scholes, Le Saux - Sheringham (85 Owen), Shearer (c)
+TUN: El Ouaer - H.Trabelsi (80 Thabet), Badra, S Trabelsi (c),
+Boukadida, Clayton - Chihi, Souayah (46 Baya), Ghodbane - Ben Slimane (66
+Ben Younes), Sellimi
+
+1:0 Shearer 43 h, 2:0 Scholes 89
+
+booked: Campbell / Clayton, Ben Younes, Ghodbane
+
+15.06.98  (16.30) Lyon, Stade Garland
+
+ROM - COL 1:0 (1:0)
+
+(+37000) Lim Kee Chong MRS, Al-Musawi GMA, Abdul Hamid MAR
+
+ROM: Stelea - Petrescu, Ciobotariu, Gh.Popescu, Filipescu - Hagi (c,
+77 Marinescu), Gab.Popescu (69 Stângă), Gâlcă, Munteanu - A.Ilie, Moldovan
+(85 Niculescu)
+COL: Mondragon - Cabrera, Bermudez, Palacios, Santa - Serna, Lozano,
+Valderrama (c), Rincon, Aristizabal (46 Valencia) - Asprilla (85 Preciado).
+
+1:0 A.Ilie 45+
+
+booked: Filipescu, Petrescu, Manteanu / Santa
+
+-------
+
+22.06.98  (16.30) Montpellier, Stade de la Mosson
+
+COL - TUN 1:0 (0:0)
+
+(~35000) Haynemann GER
+
+COL: Mondragon - Santa, Bermudez, Palacios, Cabrera - Serna (68
+Bolano), Lozano, Rincon (57 Aristizábal), Valderrama (c) - Valencia (57
+Preciado), de Avila
+TUN: El Ouaer - Clayton, Chouchane, S.Trabelsi (c), Thabet (76
+Ghodbane) - Chihi, Baya (73 Ben Ahmed), Souayah, Bouazizi - Sellimi
+(68 Ben Younes), Ben Slimane
+
+1:0 Preciado 83
+
+booked: Santa / Clayton, Bouazizi
+
+-------
+
+22.06.98  (20.00) Toulouse, Stade Municipal
+
+ROM - ENG 2:1 (0:0)
+
+(~35000) Batta FRA, Poudevigne FRA, Soldatos SAF
+
+ROM: Stelea - Petrescu, Ciobotariu, Gh.Popescu, Filipescu - Munteanu,
+Hagi (c - 72 Stângă, 86 Marinescu), Gâlcă, Gab.Popescu - Moldovan (84 Lăcătuş),
+A.Ilie
+ENG: Seaman - G.Neville, Adams, Campbell, Anderton, Ince (32 Beckham) -
+Batty, Le Saux, Scholes - Shearer (c), Sheringham (72 Owen)
+
+1:0 A.Ille 47, 1:1 Owen 85, 2:1 Petrescu 90+
+
+booked: Hagi, Gh.Popescu, Ciobotariu, Filipescu
+
+-------
+
+26.06.98  (20.00) St.Denis, Stade de France
+
+ROM - TUN 1:1 (0:1)
+
+(~80000) Lennie AUS
+
+ROM: Stelea - Petrescu, Dulca (31 Gab.Popescu), Dobos, Ciobotariu -
+Gâlcă, Hagi (c), Munteanu, Marinescu - Lăcătuş (46 A.Ilie), Dumitrescu (67
+Moldovan)
+TUN: El Ouaer (c) - S.Trabelsi, Chouchane, Boukadida, Ghodbane (83
+Thabet) - Bouazizi, Souayah (90 Ben Younes), Beya, Chichi - Ben Slimane
+(55 Jelassi), Sellimi
+
+0:1 Souayah 10 p, 1:1 Moldovan 72
+
+booked: Beya, Souayah
+
+-------
+
+26.06.98  (20.00) Lens, Stade Felix Bollaert
+
+ENG - COL 2:0 (2:0)
+
+(~40000) Brizio Carter MEX, Salinas HON, Rausis SUI
+
+ENG: Seaman - G.Neville, Adams, Campbell - Anderton (80 Lee), Beckham,
+Ince (83 Batty), Scholes (74 McManaman), Le Saux - Owen, Shearer (c)
+COL: Mondragon - Cabrera, Palaciós, Bermudez, Moreno - Serna (46
+Aristizabál), Lozano, Valderrama (c), de Avila (46 Ricard) - Rincon, Preciado
+(46 Valencia)
+
+1:0 Anderton 20, 2:0 Beckham 30 f
+
+booked: Scholes, Shearer / Serna, Aristizabál, Bermudez
+
+1. ROM^         3  2 1 0  7  4-2
+2. ENG^         3  2 0 1  6  5-2
+3. COL          3  1 0 2  3  1-3
+4. TUN          3  0 1 2  1  1-4
+
+Group H - ARG CRO JAM JAP
+
+
+14.06.98  (13.30) Toulouse, Stade Municipal
+
+ARG - JAP 1:0 (1:0)
+
+(+33000) van der Ende HOL, van den Broeck BEL, Foley NIR
+
+ARG: Roa - Ayala, Sensini (74 Chamot), Vivas - Zanetti, Almeyda,
+Simeone (c) - Veron, Ortega - López (62 Balbo), Batistuta
+JAP: Kawaguchi - Ihara (c), Nakanishi, Akita - Narahashi, Nakata,
+Nanami, Yamaguchi, Soma (85 Hirano) -- Jo, Nakayama (67 Lopes)
+
+1:0 Batistuta 28
+
+booked: Ihara, Nakanishi, Nanami
+
+-------
+
+14.06.98  (20.00) Lens, Stade Felix Bollaert
+
+CRO - JAM 3:1 (1:1)
+
+(~38000) Melo Pereira POR, Grigorescu ROM, Poudevigne FRA
+
+CRO: Ladić - Štimac, Bilić, Asanović, Soldo - Prosinečki, Stanić,
+Šimić (74 Vlaović), Jarni - Šuker, Boban (c)
+JAM: Barrett (c) - Simpson, Cargill (69 Powell), Whitmore, Goodison -
+Earle (74 Williams), Gardner, Lowe, Sinclair - Burton, Hall (81 Boyd)
+
+1:0 Stanić 27, 1:1 Earle 45, 2:1 Prosinečki 53, 3:1 Šuker 69
+
+booked: Soldo, Šimić / Burton
+
+-------
+
+20.06.98  (13.30) Nantes, Stade Atlantique
+
+CRO - JAP 1:0 (0:0)
+
+(+39000) Rhamdhan TRI
+
+CRO: Ladić - Soldo, Bilić, Štimac (46 Vlaović) - Šimić, Prosinečki (67
+Marić), Asanović, Jurčić, Jarni - Stanić (88 Tudor), Šuker (c)
+JAP: Kawaguchi - Ihara (c), Nakanishi, Akita, Narahashi (79
+Morishima) - Nakata, Nanami (84 Lopes), Yamaguchi, Soma - Jo, Nakayama
+(61 Okano)
+
+1:0 Šuker 77
+
+booked: Prosinečki, Stanić / Nanami, Nakamishi, Akita
+
+-------
+
+21.06.98  (16.30) Paris, Parc des Princes
+
+ARG - JAM 5:0 (1:0)
+
+(~48000) Pedersen NOR, Mazzei ITA, Nilsson SWE
+
+ARG: Roa - Ayala, Sensini (25 Vivas), Chamot - Zanetti, Almeyda,
+Simeone (c - 80 Pineda)  Ortega, Veron - Lopez (75 Gallardo), Batistuta
+JAM: Barrett (c) - Sinclair, Malcolm (62 Boyd), Goodison, Dawes -
+Whitmore (73 Earle), Powell, Simpson, Gardener - Burton (46 Cargill), Hall
+
+1:0 Ortega 32, 2:0 Ortega 55, 3:0 Batistuta 72, 4:0 Batistuta 79, 5:0
+Batistuta 83 p
+
+booked; Chamot / Powell, Cargill
+sent off: Powell (45)
+
+-------
+
+26.06.98  (16.00) Bordeaux, Stade Lescure
+
+ARG - CRO 1:0 (1:0)
+
+(+36000) Belquola MAR, Manari TUN, Soldatos SAF
+
+ARG: Roa - Ayala, Vivas, Paz - Zanetti (68 Simeone), Almeyda, Pineda,
+Veron - Ortega (53 Lopez), Gallardo (81 Berti), Batistuta (c)
+CRO: Ladić - Soldo, Bilić, Šimić - Marić (46 Vlaović), Prosinečki (68
+Štimac), Asanović, Boban (c), Jarni - Stanić, Suker
+
+1:0 Pineda 34
+
+booked: Ortega, Ayala, Vivas / Soldo, Jarni, Boban, Bilić
+
+-------
+
+26.06.98  (15.00) Lyon, Stade Garland
+
+JAM - JAP 2:1 (1:0)
+
+(~42000) Benkö AUT, Dante MLI, Amler CZE
+
+JAM: Lawrence - Sinclair, Lowe, Goodison (c), Gardner - Malcolm,
+Whitmore, Dawes, Simpson (90 Earle) - Hall (72 Boyd), Gayle (80 Burton)
+JAP: Kawaguchi - Akita, Ihara (c), Omura (59 Hirano), Soma - Narahashi,
+Yamaguchi, Nanami (79 Ono) - Nakayama, Nakata, Jo (59 Lópes)
+
+1:0 Whitmore 39, 2:0 Whitmore 54, 2:1 Nakayama 75
+
+booked: Malcolm, Dawes / Yamaguchi
+
+1. ARG^         3  3 0 0  9  7-0
+2. CRO^         3  2 0 1  6  4-2
+3. JAM          3  1 0 2  3  3-9
+4. JAP          3  0 0 3  0  1-4
+
+» Eightfinals
+
+
+27.06.98  (15.30) Marseilles, Stade Vélodrome
+
+ITA - NOR 1:0 (1:0)
+
+(~60000) Heynemann GER, van den Broeck BEL, Schneider GER
+
+ITA: Pagliuca - Costacurta, Bergomi, Maldini (c), Cannavaro - Albertini
+(72 Pessotto), D.Baggio, Di Biagio, Moriero (63 Di Livio) - Del Piero (77
+Chiesa), Vieri
+NOR: Grodås (c) - Berg, Eggen, Johnsen, Bjørnebye - H.Flo (73 Solskjær),
+Leonhardsen (13 Strand, 40 Solbakken), Rekdal, Riseth - Mykland, T.A.Flo
+
+1:0 Vieri 18
+
+booked: Maldini, Di Biagio, Moriero / H.Flo, Rekdal, Mykland
+
+-------
+
+27.06.98  (20.00) Paris, Parc des Princes
+
+BRA - CHI 4:1 (3:0)
+
+(-49000) Batta FRA, Poudevigne FRA, Powell JAM
+
+BRA: Taffarel - Cafú, Aldair (78 Gonçalves), Baiano, Roberto Carlos -
+C.Sampaio, Leonardo, Dunga (c), Rivaldo - Ronaldo, Bebeto (65 Denilson)
+CHI: Tapia - Reyes, Fuentes, Margas - Cornejo, Acuña (80 Musrri),
+Ramirez (46 Estay), Sierra (46 Vega), Aros - Salas, Zamorano (c)
+
+1:0 C.Sampaio 11, 2:0 C.Sampaio 27 h, 3:0 Ronaldo 45 p, 3:1 Salas 68,
+4:1 Ronaldo 69
+
+booked: Leonardo, Cafú / Fuentes, Tapia
+
+-------
+
+28.06.98  (15.30)  Lens, Stade Felix Bollaert
+
+FRA - PAR 1:0 (0:0, 0:0, 0:0)
+
+(-42000) Bujsaim UEA, Wickeramatunge SRI, Fred VAN
+
+FRA: Barthéz - Lizarazu, Blanc, Thuram - Desailly, Deschamps (c), Petit
+(69 Boghossian), Diomede (76 Guivarc'h), Trezéguet - Djorkaeff, Henry
+(64 Pires)
+PAR: Chilavert (c) - Arce, Ayala, Acuña, Gamarra, Sarabia - Cardozo (91
+A.Rojas), Paredes (74 Caniza), Enciso - Campos (55 Yegros), Benitez
+
+1:0 Blanc 113 gg
+
+booked: Chilavert, Benitez, Arce, A.Rojas, Enciso
+
+-------
+
+28.06.98  (20.00) St.Denis, Stade de France
+
+DAN - NGA 4:1 (2:0)
+
+(-60000) Meier SUI, Ghandafari KUW, Tresaco ESP
+
+DAN: Schmeichel - Rieper, Høgh, Colding, Heintze - Helveg, A.Nielsen,
+B.Laudrup (78 Wieghorst), Møller (59 Sand) - M.Laudrup (c - 84 Frandsen),
+Jørgensen
+NGA: Rufai - Ochechukwu (c), Babayaro, West, Adepoju - Lawal (73
+Babangida), Oliseh, Finidi - Kanu (65 Yekini), Ipkeba, Okocha
+
+1:0 Møller 3, 2:0 B.Laudrup 12, 3:0 Sand 60, 4:0 Helveg 76, 4:1 Babangida 78
+
+booked: Rieper / Okocha
+
+-------
+
+29.06.98  (15.30) Montpellier, Stade de la Mosson
+
+GER - MEX 2:1 (0:0)
+
+(+35000) Melo Pereira POR, Manari TUN, Salie SAF
+
+GER: Köpke - Matthäus, Wörns, Babbel - Heinrich (58 Möller), Hamann,
+Helmer (38 Ziege), Tarnat - Häßler (74 Kirsten)  Klinsmann (c), Bierhoff
+MEX: Campos - Pardo, Lara, Suarez, Davino - Palencia (53 Arellano),
+Bernal (46 Carmona), Garcia Aspe (c - 86 Pelaez), Villa - Hernández, Blanco
+
+0:1 Hernández 47, 1:1 Klinsmann 75, 2:1 Bierhoff 86 h
+
+booked: Tarnat, Hamann, Matthäus, Babbel / Davino, Blanco
+
+-------
+
+29.06.98  (20.00) Toulouse, Stade Municipal
+
+HOL - JUG 2:1 (1:0)
+
+(~35000) Garcia-Aranda ESP, Grigorescu ROM, Rausis SUI
+
+HOL: van der Sar - Reiziger, Stam, F.de Boer (c), Numan - R.de Boer,
+Seedorf, Davids, Overmars - Cocu, Bergkamp
+JUG: Kralj - Mirković, Petrović, Djorović, Mihajlović (78 Saveljić) -
+Jokanović, Komljenović, B.Brnović, Jugović - Stojković (c - 58 Savićević),
+Mijatović.
+
+1:0 Bergkamp 38, 1:1 Komljenović 48 h, 2:1 Davids 90+ (50 Mijatović missed
+penalty)
+
+booked: Stojković, Mirković, Djorović
+
+-------
+
+30.06.98  (15.30) Bordeaux, Stande Lescure
+
+CRO - ROM 1:0 (1:0)
+
+(~35000) Castrilli ARG, Pinto Filho BRA, Rossi ARG
+
+CRO: Ladić - Štimac, Bilić, Šimić - Stanić (83 Tudor), Asanović,
+Jurčić, Boban (c), Jarni - Vlaović (77 Krpan), Šuker
+ROM: Stelea - Gh.Popescu, Ciobotariu, Filipescu - Hagi (c - 57
+Craioveanu), Petrescu (76 Marinescu), Gab.Popescu (61 Niculescu), Galca,
+Munteanu - A.Ilie, Moldovan.
+
+1:0 Šuker 45 p (penalty was repeated)
+
+booked: Boban, Bilić / Gh.Popescu, Petrescu, A.Ilie
+
+-------
+
+30.06.98  (20.00) St.Etienne, Stade G.Guichard
+
+ARG - ENG 2:2 (2:2, 2:2, 2:2)  p 4-3
+
+(~36000) Nielsen DAN, Al-Musawi OMA, Abdul Hamid MAR
+
+ARG: Roa - Ayala, Alameyda, Chamot - Ortega, Vivas, Simeone (c - 92 Berti),
+Veron, Zanetti - López (70 Gallardo), Batistuta (70 Crespo)
+ENG: Seaman - G.Neville (73 Southgate), Adams, Campbell - Anderton
+(97 Batty), Beckham, Ince, Scholes (80 Merson), Le Saux - Shearer (c), Owen
+
+1:0 Batistuta 5 p, 1:1 Shearer 9 p, 1:2 Owen 16, 2:2 Zanetti 45+
+
+Penalties: 1:0 Berti, 1:1 Shearer, (1:1) Crespo (save Seaman), (1:1) Ince
+(save Roa), 2:1 Veron, 2:2 Merson, 3:2 Gallardo, 3:3 Owen, 4:3 Ayala,
+(4:3) Batty (save Roa)
+
+booked: Pineda, Veron, Almeyda, Roa (during penalties) / Seaman, Ince
+sent off: Beckham (47)
+
+
+» Quarterfinals
+
+
+03.07.98  (15.30) St.Denis, Stade de France
+
+FRA - ITA 0:0 (0:0, 0:0, 0:0)  p 4-3
+
+(-78000) Dallas SCO, Grigorescu ROM, Warren ENG
+
+FRA: Barthéz - Thuram, Blanc, Desailly, Lizarazu - Deschamps (c), Petit,
+Djorkaeff, Karembeu (65 Henry) - Zidane, Guivarc'h (65 Trezéguet)
+ITA: Pagliuca - Costacurta, Maldini (c), Bergomi, Cannavaro - D.Baggio
+(53 Albertini), Pessotto (90 Di Livio), Di Biagio, Moriero - Del Piero (67
+R.Baggio), Vieri
+
+Penalties: 1:0 Zidane, 1:1 R.Baggio, (1:1) Lizarazu (save Pagliuca), (1:1)
+Albertini (save Barthéz), 2:1 Trézeguet, 2:2 Costacurta, 3;2 Henry, 3:3
+Vieri, 4:3 Blanc, (4:3) Di Biaggio (out)
+
+booked: Deschamps, Guivarc'h / Costacurta, Bergomi, Del Piero
+
+-------
+
+03.07.98  (20.00) Nantes, Stade Atlantique
+
+BRA - DAN 3:2 (2:1)
+
+(-36000) Ghadour EGY, Manari TUN, Dante MLI
+
+BRA: Taffarel - Cafú, Baiano, Aldair, Roberto Carlos - César Sampaio,
+Dunga (c), Rivaldo (87 Zé Roberto), Leonardo (72 Emerson) - Bebeto (64
+Denilson), Ronaldo
+DAN: Schmeichel - Colding, Rieper, Høgh, Heintze - Jørgensen, A.Nielsen
+(46 Tøfting), Helveg (86 Schjönberg), M.Laudrup (c) - Møller (67 Sand),
+B.Laudrup
+
+0:1 Jørgensen 2, 1:1 Bebeto 11, 2:1 Rivaldo 26, 2:2 B.Laudrup 50,
+3:2 Rivaldo 60
+
+booked: Cafú, Aldair, Roberto Carlos / Helveg, Colding, Tøfting
+
+-------
+
+04.07.98  (20.00) Marseilles, Stade Vélodrome
+
+HOL - ARG 2:1 (1:0)
+
+(~55000) Brizio Carter MEX, Powell JAM, Salinas HON
+
+HOL: van der Sar - Reiziger, F.de Boer (c), Stam, Numan - R.de Boer (64
+Overmars), Jonk, Davids, Cocu - Bergkamp, Kluivert
+ARG: Roa - Sensini, Ayala, Chamot (90 Balbo) - Zanetti, Almeyda (67
+Pineda), Simeone (c), Veron, Ortega - López, Batistuta
+
+1:0 Kluivert 12, 1:1 López 18, 2:1 Bergkamp 90
+
+booked: Stam, Numan / Chamot, Sensini
+sent off: Numan (76) / Ortega (87)
+
+-------
+
+04.07.98  (20.00) Lyon, Stade Garland
+
+CRO - GER 3:0 (1:0)
+
+(~44000) Pedersen NOR, van den Broeck BEL, Nilsson SWE
+
+CRO: Ladić - Štimac, Bilić, Šimić - Stanić, Soldo, Jarni, Boban,
+Asanović - Šuker, Vlaović (83 Marić)
+GER: Köpke - Wörns, Matthäus, Kohler - Heinrich, Jeremies, Häßler
+(69 Kirsten), Hamann (79 Marschall), Tarnat - Klinsmann (c), Bierhoff
+
+1:0 Jarni 45, 2:0 Vlaović 80, 3:0 Šuker 85
+
+booked: Šimić, Stanić, Šuker / Heinrich, Tarnat
+sent off: Wörns (40)
+
+» Semifinals
+
+
+07.07.98  (20.00) Marseilles, Stade Vélodrome
+
+BRA - HOL 1:1 (0:0, 1:1, 1:1)  p 4-2
+
+(~60000) Al-Bujsaim EMI, Al-Musawi OMA, Ghandafari KUW
+
+BRA: Taffarel - Zé Carlos, Aldair, Baiano, Roberto Carlos - César
+Sampaio, Dunga (c), Leonardo (85 Emerson), Rivaldo - Bebeto (70 Denilson),
+Ronaldo
+HOL: van der Sar - Reiziger (57 Winter), Stam, F.de Boer (c) - R.de
+Boer, Jonk (111 Seedorf), Davids, Cocu - Bergkamp, Kluivert, Zenden
+(75 van Hooijdonk)
+
+1:0 Ronaldo 46, 1:1 Kluivert 85 h
+
+Penalties: 1:0 Ronaldo, 1:1 F.de Boer, 2:1 Rivaldo, 2:2 Bergkamp, 3:2 Emerson,
+(3:2) Cocu (save Taffarel), 4:2 Dunga, (4:2) R.de Boer (save Taffarel)
+
+booked: César Sampaio, Zé Carlos / Reiziger, Davids, Seedorf, van Hooijdonk
+
+-------
+
+08.07.98  (20.00) St.Denis, Stade de France
+
+FRA - CRO 2:1 (0:0)
+
+(~75000) Garcia-Aranda ESP, Diaz CHI, Tresaco ESP
+
+FRA: Barthéz - Thuram, Blanc, Desailly, Lizarazu - Karembeu (31 Henry),
+Djorkaeff (77 Leboeuf), Deschamps (c), Zidane - Petit, Guivarc'h (68
+Trézeguet)
+CRO: Ladić - Štimac, Bilić, Soldo, Jarni - Stanić (89 Prosinečki),
+Šimić, Asanović, Boban (c - 66 Marić) - Šuker, Vlaović
+
+0:1 Šuker 46, 1:1 Thuram 47, 2:1 Thuram 69
+
+booked: Asanović, Stanić, Šimić
+sent off: Blanc (73)
+
+
+» Third place match
+
+
+11.07.98  (20.00) Paris, Parc des Princes
+
+CRO - HOL 2:1 (2:1)
+
+(-46000) González PAR, Zammit MLT, Fred VAN
+
+CRO: Ladić - Bilić, Soldo, Štimac, Stanić - Boban (c - 77 Vlaović),
+Jarni, Prosinečki (85 Tudor), Asanović - Jurčić, Šuker
+HOL: van der Sar - Stam, Numan, F.de Boer (c), Davids - Jonk, Cocu (46
+Overmars), Seedorf - Kluivert, Bergkamp (57 van Hooijdonk), Zenden
+
+1:0 Prosinečki 13, 1:1 Zenden 21, 2:1 Šuker 35
+
+booked: Štimac, Stanić, Jurčić, Asanović / Davids, Bergkamp
+
+
+» Final
+
+
+12.07.98  (20.00) St.Denis, Stade de France
+
+FRA - BRA 3:0 (2:0)
+
+(-75000) Belquola MAR, Warren ENG, Salie SAF
+
+FRA: Barthéz - Desailly, Lizarazu, Thuram, Leboeuf - Deschamps (c),
+Djorkaeff (74 Vieira), Zidane, Karembeu (56 Boghossian) - Petit, Guivarc'h
+(66 Dugarry)
+BRA: Taffarel - Cafú, Baiano, Aldair, Roberto Carlos - C.Sampaio (57
+Edmundo), Leonardo (46 Denilson), Dunga (c), Rivaldo - Ronaldo, Bebeto
+
+1:0 Zidane 27 h, 2:0 Zidane 45+ h, 3:0 Petit 90+
+
+booked: Desailly (2). Deschamps, Karembeu / Baiano
+sent off: Desailly (68)
+
