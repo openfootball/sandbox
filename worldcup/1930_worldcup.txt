@@ -1,0 +1,341 @@
+= World Cup 1930
+
+##  using/trying a rsssf-like format
+## see https://www.rsssf.org/tables/30full.html
+
+
+# Uruguay, July 13-30. 
+# All games played in Montevideo. 
+# Decided in Amsterdam 28 May 1928. Entries deadline 19 Jan 1930, 
+# moved to late May (all 13 teams that entered were qualified). 
+# Groups drawn 7 Jul 1930. Semifinals drawn 22 Jul 1930.
+
+
+
+# First Phase
+
+Group A | ARG CHI FRA MEX
+
+
+
+13.07.1930 15.00 @ Montevideo, Estadio Pocitos
+
+FRA - MEX 4-1 (3-0)
+
+# (+3000) Lombardi URU, Rego BRA, Christophe BEL
+
+FRA: Thépot (24' Chantrel) - Capelle, Mattler - Chantrel, Pinel,
+     Villaplane  - Libérati, Delfour, Maschinot, L.Laurent, Langiller
+MEX: Bonfiglio - R.Garza-Guitiérrez, M.Rosas - Amezcùa, Sánchez,
+     F.Rosas - López, Ruiz, Mejia, Carreño, Pérez
+
+1-0 L.Laurent 19', 2-0 Langiller 40', 3-0 Maschinot 43', 3-1 Carreño 70',
+4-1 Maschinot 87'
+
+# NOTE: Laurent's goal is the first in World Cup history
+
+# -----------
+
+
+15.07. 16.00 @ Montevideo, Parque Central
+
+ARG - FRA 1-0 (0-0)
+
+# (~18000) Rego BRA, Saucedo BOL, Râdulescu ROM
+
+ARG: Bossio - Della Tore, Muttis - J.Evaristo, Monti, Arico Suárez - 
+     Perinetti, Varallo, Ferreira, Cerro, M.Evaristo
+FRA: Thépot - Capelle, Mattles - Chantrel, Pinel, Villaplane - 
+     Libérati, Delfour, Maschinot, Laurent, Langiller
+
+1-0 Monti 81'   # what is f qualifier?  (penalty??)
+
+# -----------
+
+
+16.07. 14.45 @ Montevideo, Parque Central
+
+CHI - MEX 3-0 (1-0)
+
+# (~7000) Christophe BEL, Aphesteguy URU, Langenus BEL
+
+CHI: Cortés - Poirier, Morales - A.Torres, Saavedra, Elgueta -
+     Ojeda, Subiabre, Villalobos, Vidal, Schneeberger
+MEX: Sota - R. Guitiérez, M.Rosas - Amescùa, Sánchez,
+     F.Rosas - López, Gayón, Ruiz, Carreño, Pérez
+
+1-0 Vidal 3', 2-0 M. Rosas 52' (og), 3-0 Vidal 65'   ## note assume o qualifier is o.g.
+
+
+__END__
+
+# -----------
+
+19.07.30  (12.50) Montevideo, Centenario
+
+CHI - FRA 1-0 (0-0)
+
+(~50000) Tejada URU, Lombardi URU, Rego BRA
+
+CHI: Cortés - Chaparro, Riveros - A.Torres, Saavedra, C.Torres - Ojeda,
+Subiabre, Villalobos, Vidal, Schneeberger (c)
+FRA: Thépot - Capelle, Mattles - Chantrel, Delmer, Villaplane  (c) -
+Libérati, Delfour, Pinel, Veinante, Langiller
+
+1-0 Subiabre 67 h (30 Thépot saved a penalty by Saavedra)
+
+-----------
+
+19.07.30  (15.00) Montevideo, Centenario
+
+ARG - MEX 6-3 (3-1)
+
+(~50000) Saucedo BOL, Alonso URU, Râdulescu ROM
+
+ARG: Bossio - Della Tore, Paternoster - Chividini, Zumelzú (c),
+Orlandini - Peucelle, Varallo, Stábile, Demaría, Spadaro
+MEX: Bonfiglio - R.Garza-Guitiérrez (c), M.Rosas - Olivarez, Sánchez,
+Rodriguez, F.Garza-Guitiérrez, F.Rosas - López, Gayón, Carreño
+
+1-0 Stábile 8, 2-0 Zumelzú 12, 3-0 Stábile 17, 3-1 M.Rosas 42 p,
+4-1 Varallo 53, 5-1 Zumelzú 55, 5-2 M. Rosas 65, 5-3 Gayón 75 h,
+6-3 Stábile 80 
+(23 Bonfiglio saved penalty from Paternoster, 65 Bossio held penalty 
+from M.Rosas who however scored from the rebound)
+
+-----------
+
+22.07.30  (14.45) Montevideo, Centenario
+
+ARG - CHI 3-1 (2-1)
+
+(~35000) Langenus BEL, Christophe BEL, Saucedo BOL
+
+ARG: Bossio - Della Tore, Paternoster - J.Evaristo, Monti
+Orlandini - Peucelle, Varallo, Stábile, Ferreira (c), M. Evaristo
+CHI: Cortés - Chaparro, Morales - A.Torres, Saavedra (c), C.Torres -
+Arellano, Subiabre, Villalobos, Vidal, Aguilera
+
+1-0 Stábile 12 h, 2-0 Stábile 13, 2-1 Arellano 15, 3-1 M.Evaristo 51
+
+1. ARG^         3  6  3 0 0    10-4
+2. CHI          3  4  2 0 1     5-3
+3. FRA          3  2  1 0 2     4-3
+4. MEX          3  0  0 0 3     4-13
+
+Group B - BOL BRA JUG
+
+
+14.07.30  (12.45) Montevideo, Parque Central
+
+JUG - BRA 2-1 (2-0)
+
+(~20000) Tejada URU, Vallarino URU, Balway FRA
+
+JUG: Jakšić - Ivković (c), Mihajlović - Arsenijević, Stevanović,
+Djokić - Tirnanić, Marjanović, Beck, Vujadinović, Sekulić
+BRA: Joel - Brilhante, Itália - Hermógenes, Fausto, Fernando -
+Poly, Nilo, Arakén, Preguinho (c), Pereira
+
+1-0 Tirnanić 21, 2-0 Beck 30, 2-1 Preguinho 62
+
+-----------
+
+17.07.30  (12.45) Montevideo, Parque Central
+
+JUG - BOL 4-0 (0-0)
+
+(~20000) Matteucci URU, Lombardi URU, Wernken CHI
+
+JUG: Jakšić - Ivković (c), Mihajlović - Arsenijević, Stevanović,
+Djokić - Tirnanić, Marjanović, Beck, Vujadinović, Najdanović
+BOL: Bermùdes - Durandal, Chavarria - Argote, Lara,
+Balderrama - Gómez, Bustamante, Mendéz (c), Alborta, Férnandez
+
+1-0 Beck 60, 2-0 Marjanović 65, 3-0 Beck 67, 4-0 Vujadinović 86
+
+-----------
+
+20.07.30  (13.00) Montevideo, Centenario
+
+BRA - BOL 4-0 (1-0)
+
+(-12000) Balway FRA, Matteucci URU, Vallejo MEX
+
+BRA: Velloso - Zé Luiz, Itália - Hermógenes, Fausto, Fernando -
+Benedito, Russinho, Carvalho Leite, Preguinho (c), Moderato
+BOL: Bermùdes - Durandal, Chavarria - Sáinz, Lara,
+Balderrama - Fernández, Ortiz, Bustamante, Mendéz (c), Alborta
+
+1-0 Moderato 37, 2-0 Preguinho 67, 3-0 Moderato 73, 4-0 Preguinho 83
+
+1. JUG^         2  4  2 0 0       6-1
+2. BRA          2  2  1 0 1       5-2
+3. BOL          2  0  0 0 2       0-8
+
+Group C - PER ROM URU
+
+
+14.07.30  (14.50) Montevideo, Estadio Pocitas
+
+ROM - PER 3-1 (1-0)
+
+(+2000) Warnken CHI, Langenus BEL, Matteucci URU
+
+ROM: Lăpuşneanu - Bürger, Steiner - Eisenbeisser, Vogl, Raffinsky -
+Kovács, Deşu, Wetzer (c), Stanciu, Barbu
+PER: Valdivieso - de las Casas, Soria - Galindo (c), García, Lavalle -
+Flores, Villanueva, Denegri, Neira, Souza-Ferreira
+
+1-0 Deşu 2 (95 sec), 1-1 Souza-Ferreira 75, 2-1 Stanciu 79, 3-1 Kovács 89
+
+sent off: Galindo (56)
+
+-----------
+
+18.07.30  (14.30) Montevideo, Centenario
+
+URU - PER 1-0 (0-0)
+
+(+85000) Langenus BEL, Christophe BEL, Balway FRA
+
+URU: Ballestero - Tejera, Nasazzi (c) - Andrade, Fernández, Gestido -
+Urdinarán, Castro, Petrone, Cea, Iriarte.
+PER: Pardón - de las Casas, Maquillón - Galindo (c), Denegri, Astengo -
+Flores, Villanueva, Lavalle, Neira, Souza-Ferreira
+
+1-0 Castro 65
+
+NOTE: Match preceded by stadium opening ceremony
+
+-----------
+
+21.07.30  (14.50) Montevideo, Centenario
+
+URU - ROM 4-0 (4-0)
+
+(~80000) Rego BRA, Saucedo BOL, Warnken CHI
+
+URU: Ballestero - Macheront, Nasazzi (c) - Andrade, Fernández, Gestido -
+Dorado, Scarone, Anselmo, Cea, Iriarte.
+ROM: Lăpuşneanu - Bürger, Czako - Eisenbeisser, Vogl, Robe - Covaci, Deşu,
+Wetzer (c), Raffinsky, Barbu
+
+1-0 Dorado 7, 2-0 Scarone 28, 3-0 Anselmo 31, 4-0 Cea 35
+
+1. URU^         2  4  2 0 0       5-0
+2. ROM          2  2  1 0 1       3-5
+3. PER          2  0  0 0 2       1-4
+
+Group D - BEL PAR USA
+
+
+13.07.30  (15.00) Montevideo, Parque Central
+
+USA - BEL 3-0 (2-0)
+
+(+15000) Macias ARG, Matteucci URU, Warnken CHI
+
+USA: Douglas - Wood, Moorhouse - Gallagher, Tracey, Brown -
+Gonsalves, Florie (c), Patenaude, Auld, McGhee
+BEL: Badjou - Nouvens, Hoydoncks - de Clerq, Hellemans, F.Braine
+(c) - Diddens, Voorhoof, Adams, Moeschal, Versijp
+
+1-0 McGhee 40, 2-0 McGhee 43, 3-0 Patenaude 89 h
+
+-----------
+
+17.07.30  (14.45) Montevideo, Parque Central
+
+USA - PAR 3-0 (2-0)
+
+(~20000) Macias ARG, Aphesteguy URU, Tejada URU
+
+USA: Douglas - Wood, Moorhouse - Gallagher, Tracey, Auld -
+Gonsalves, Florie (c), Patenaude, Brown, McGhee
+PAR: Denis - Olmedo, Miracca - Etcheverry, Diaz, Aguirre - Nessi -
+Dominguez, González, Benitez Cáceres, Vargas Peña (c)
+
+1-0 Patenaude 10, 2-0 Patenaude 18, 3-0 Patenaude 50 h
+
+NOTE: FIFA officially recognised the second goal as scored by Patenaude 
+on November 10, 2006 (!), making him the first World Cup hat-trick
+scorer; it was earlier listed as own goal by González or as goal by Florie
+
+-----------
+
+20.07. 15.00 @ Montevideo, Centenario
+
+PAR - BEL 1-0 (1-0)
+
+(~12000) Vallarino URU, Lombardi URU, Macias ARG
+
+PAR: P.Benitez - Olmedo, Flóres - S.Benitez, Diaz, Garcete, Nessi -
+Romero, Gonzáles, Benitez Cáceres, Vargas Peña (c)
+BEL: Badjou - de Dekens, Hoydoncks - Moeschal, Hellemans, F. Braine
+(c) - Diddens, Nouvens, Adams, Delbecque, Versijp
+
+1-0 Benites Cáceres 40
+
+1. USA^         2  4  2 0 0       6-0
+2. PAR          2  2  1 0 1       1-3
+3. BEL          2  0  0 0 2       0-4
+
+
+
+» Semifinals
+
+26.07. 14.45 @ Montevideo, Centenario
+
+ARG - USA 6-1 (1-0)
+
+(+60000) Langenus BEL, Vallejo MEX, Warnken CHI
+
+ARG: Botasso - Della Tore, Paternoster - J.Evaristo, Monti,
+Orlandini - Peucelle, Scopelli, Stábile, Ferreira (c), M.Evaristo
+USA: Douglas - Wood, Moorhouse - Gallagher, Tracey, Auld -
+Brown, Florie (c), Patenaude, Gonsalves, McGhee
+
+1-0 Monti 20, 2-0 Scopelli 56, 3-0 Stábile 69, 4-0 Peucelle 80, 5-0
+Peucelle 85, 6-0 Stábile 87, 6-1 Brown 89
+
+-----------
+
+27.07. 14.45 @ Montevideo, Centenario
+
+URU - JUG 6-1 (3-1)
+
+(+80000) Rego BRA, Saucedo BOL, Balway FRA
+
+URU: Ballestero - Mascheroni, Nasazzi (c) - Andrade, Fernández, Gestido -
+Dorado, Scarone, Anselmo, Cea, Iriarte.
+JUG: Jakšić - Ivković (c), Mihajlović - Arsenijević, Stevanović,
+Djokić - Tirnanić, Marjanović, Beck, Vujadinović, Sekulić
+
+0-1 Vujadinović 4, 1-1 Cea 19, 2-1 Anselmo 21 h, 3-1 Anselmo 23, 4-1 Iriarte
+63, 5-1 Cea 66, 6-1 Cea 72
+
+
+» Final
+
+
+30.07. 15.30 @ Montevideo, Centenario
+
+URU - ARG 4-2 (1-2)
+
+(-80000) Langenus BEL, Christophe BEL, Saucedo BOL
+
+URU: Ballestero - Mascheroni, Nasazzi (c) - Andrade, Fernández, Gestido -
+     Dorado, Scarone, Castro, Cea, Iriarte.
+ARG: Botasso - Della Torre, Paternoster - J.Evaristo, Monti, Arico
+     Suárez - Peucelle, Varallo, Stábile, Ferreira (c), M.Evaristo.
+
+1-0 Dorado 12, 1-1 Peucelle 20, 1-2 Stábile 38, 2-2 Cea 58, 3-2 Iriarte
+68, 4-2 Castro 89
+
+NOTE: No third-place match. However some sources, notably the
+FIFA Bulletin from 1984, affirm that the match occurred (JUG-USA 3-1)!
+Quite inexplicable, if you ask me - there was no third-place match
+arranged for, as indeed it has been at the previous Olympic Games.
+It was introduced for the first time in 1934.
+

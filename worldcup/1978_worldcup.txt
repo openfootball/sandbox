@@ -1,0 +1,710 @@
+= World Cup 1978
+
+##  using/trying a rsssf-like format
+## see https://www.rsssf.org/tables/78full.html
+
+
+# Argentina, 1-25 June 1978 (Buenos Aires, Córdoba, Mar del Plata, Mendoza, Rosario). 
+# Decided at FIFA Congress in Tokyo 8 Oct 1964 and in London 6 July 1966. 
+# Entries deadline 31 Aug 1975. 106 teams entered, 97 seeded, 96 actually played. 
+# Qualifications drawn 19 Nov 1975 in Guatemala. Finals drawn 14 Jan 1978 in Buenos Aires.
+
+
+
+Group A | ARG FRA HUN ITA
+
+
+02.06.1978 13.45 @ Mar del Plata, Estadio Mar del Plata
+
+ITA - FRA 2-1 (1-1)
+
+# (+42000) Rainea ROM, Lienmayr AUT, Silvagno CHI
+
+ITA: Zoff  - Gentile, Bellugi, Scirea, Cabrini - Benetti, Tardelli,
+     Antognoni (46' Zaccarelli), Causio - Rossi, Bettega
+FRA: Bertrand-Demanes - Janvion, Bossis, Rio, Trésor - Michel, Dalger,
+     Guillou, Lacombe (74' Berdoll) - Platini, Six (76' Rouyer)
+
+0-1 Lacombe 1', 1-1 Rossi 30', 2-1 Zaccarelli 52'    
+##  0-1 was (38 sec)
+
+booked: Tardelli; Platini, Michel      ## use - or / to separate - why? why not??
+
+# -------
+
+
+02.06. 19.15 @ Buenos Aires, Estadio Monumental
+
+ARG - HUN 2-1 (1-1)
+
+# (~77000) Garrido POR, Partridge ENG, N'Diaye SEN
+
+ARG: Fillol - Olguin, Passarella, L.Galvan, Tarantini - Ardiles,
+     Gallego, Valencia (75' Alonso), Houseman (67' Bertoni) - Luqué, Kempes
+HUN: Gujdár - Törok (46' Martos), Kereki, Kocsis, J.Tóth - Nyilasi,
+     Zombori, Pintér, Csapó - Tórócsik, Nagy
+
+0-1 Csapó 10', 1-1 Luqué 15', 2-1 Bertoni 84'
+
+booked: Passarella; Tórócsik, Nyilasi
+sent off: Tórócsik 88', Nyilasi 89'
+
+
+# -------
+
+__END__
+
+
+06.06.78  (13.45) Mar del Plata, Estadio Mar del Plata
+
+ITA - HUN 3-1 (2-0)
+
+(~32000) Barreto URU, Riwersi GER, Gordon SCO
+
+ITA: Zoff (c) - Gentile, Bellugi, Scirea, Cabrini (79 Cuccureddu) - Benetti,
+Tardelli, Antognoni, Causio - Rossi, Bettega (84 Graziani)
+HUN: Meszaros - Martos, Kereki (c), Kocsis, J.Tóth - Pusztai, Zombori,
+Pintér, Csapó - Fazekas (46 Hálasz), Nagy (46 A.Tóth)
+
+1-0 Rossi 34, 2-0 Bettega 36, 3-0 Benetti 60, 3-1 A.Tóth 81 p
+
+booked: Zombori, Martos
+
+-------
+
+06.06.78  (19.15) Buenos Aires, Estadio Monumental
+
+ARG - FRA 2-1 (1-0)
+
+(+77000) Dubach SUI, Orozco PER, Winsemann CAN
+
+ARG: Fillol - Olguin, Passarella (c), L.Galvan, Tarantini - Ardiles, Gallego,
+Valencia (63 Alonso, 72 Ortiz), Houseman - Luqué, Kempes
+FRA: Bertrand-Demanes (58 Baratelli) - Battiston, Bossis, López, Trésor (c) -
+Michel, Rocheteau, Bathenay, Lacombe - Platini, Six
+
+1-0 Passarella 45 p, 1-1 Platini 60, 2-1 Luqué 73
+
+booked: Six
+
+-------
+
+10.06.78  (14.30) Mar del Plata, Estadio Mar del Plata
+
+FRA - HUN 3-1 (3-1)
+
+(~28000) Coelho BRA, Silvagno CHI, Partridge ENG
+
+FRA: Dropsy - Bracci, Petit, Janvion, Berdoll - López, Trésor (c),
+Rouyer, Rocheteau (75 Six) - Bathenay, Papi (46 Platini)
+HUN: Gujdár - Martos, Kereki (c), Balint, J.Tóth - Pusztai, Zombori, Pintér,
+Nyilasi - Tórócsik, Nagy (73 Csapó)
+
+1-0 López 22, 2-0 Berdoll 37, 2-1 Zombori 41, 3-1 Rocheteau 42
+
+NOTE: Match delayed due to both teams wearing identical kits; the
+French eventually donned the kits of a local Atletico Kimbeira team.
+
+-------
+
+10.06.78  (19.15) Buenos Aires, Estadio Monumental
+
+ITA - ARG 1-0 (0-0)
+
+(+77000) Klein ISR, Rion BEL, González MEX
+
+ITA: Zoff (c) - Gentile, Bellugi (6 Cuccureddu), Scirea, Cabrini - Benetti,
+Tardelli, Antognoni (73 Zaccarelli), Causio - Rossi, Bettega
+ARG: Fillol - Olguin, Passarella (c), L.Galvan, Tarantini - Ardiles, Gallego,
+Valencia, Bertoni - Ortiz (73 Houseman), Kempes
+
+1-0 Bettega 67
+
+booked: Benetti
+
+1. ITA^         3  3 0 0  6  6-2
+2. ARG^         3  2 0 1  4  4-3
+3. FRA          3  1 0 2  2  5-5
+4. HUN          3  0 0 3  0  3-8
+
+Group B - GER MEX POL TUN
+
+
+01.06.78  (15.00) Buenos Aires, Estadio Monumental
+
+POL - GER 0-0
+
+(~77000) Coerezza ARG, Ithurralde ARG, Comesaña ARG
+
+POL: Tomaszewski - Szymanowski, Maculewicz, Gorgoń, Nawałka - Żmuda,
+Deyna (c), Lubański (79 Boniek), Lato - Masztaler (84 Kasperczak), Szarmach
+GER: Maier - Vogts (c), Rüssmann, Kaltz, Zimmermann - Bonhof, H.Müller, Flohe,
+Abramczik - Fischer, Beer
+
+NOTE: Match preceded by WC opening ceremony
+
+-------
+
+02.06.78  (16.45) Rosario, Estadio Rosario
+
+TUN - MEX 3-1 (0-1)
+
+(~25000) Gordon SCO, Gonella ITA, Dubach SUI
+
+TUN: Naili - Dhouieb, Jendoubi, Kaabi, Jebali - Ghommidh, Tarak,
+Agrebi - Témime (c - 88 K.Labidi), Akid, Ben Aziza (81 Karoui)
+MEX: Reyes - Martinez, Tena, Ramos, Vásquez-Ayala - Mendizábal (67  Lugo),
+de la Torre, Cuéllar, Rangel - Isiordia, Sánchez
+
+0-1 Vásquez-Ayala 45 p, 1-1 Kaabi 55, 2-1 Ghommidh 79, 3-1 Dhouieb 87
+
+-------
+
+06.06.78  (16.45) Rosario, Estadio Rosario
+
+POL - TUN 1-0 (1-0)
+
+(~15000) Franco ESP, Pestarino ARG, Thomas WAL
+
+POL: Tomaszewski - Szymanowski, Maculewicz, Gorgoń, Nawałka, Żmuda -
+Deyna (c), Lubański (76 Boniek), Lato - Kasperczak, Szarmach (80 Iwan)
+TUN: Naili - Dhouieb, Jebali, Jendoumi, Kaabi - Ghommidh, Gasmi, Karab,
+Agrebi - Témime (c), Akib
+
+1-0 Lato 43
+
+-------
+
+06.06.78  (16.45) Cordoba, Estadio Cordoba
+
+(~46000) Bouzo SYR, Rion BEL, Garrido POR
+
+GER - MEX 6-0 (4-0)
+
+GER: Maier - Vogts (c), Rüssmann, Dietz, Kaltz - Bonhof, H.Müller, Flohe,
+Rummenigge - Fischer, D.Müller
+MEX: Reyes (40 Soto) - Martinez, Tena, Ramos, Vásquez-Ayala (c) - Mendizábal,
+de la Torre, Cuéllar, Rangel - Lopez-Zarza (46 Lugo), Sánchez
+
+1-0 D.Müller 15, 2-0 H.Müller 30, 3-0 Rummenige 38, 4-0 Flohe 40, 5-0 Rummenige
+73, 6-0 Flohe 90
+
+booked: Bonhof / Vásquez-Ayala
+
+-------
+
+10.06.78  (16.45) Cordoba, Estadio Cordoba
+
+TUN - GER 0-0
+
+(~35000) Orozco PER, Comesaña ARG, Pestarino ARG
+
+TUN: Naili - Dhouieb, Jendoumi, Kaabi, Jebali - Gasmi, Ghommidh, Tarak,
+Agrebi - Akid (63 Ben Aziza), Témime (c)
+GER: Maier - Vogts (c), Rüssmann, Dietz, Kaltz - Bonhof, H.Müller, Flohe,
+Rummenigge - Fischer, D.Müller
+
+booked: Tarak / H.Müller
+
+-------
+
+10.06.78  (16.45) Rosario, Estadio Rosario
+
+POL - MEX 3-1 (1-0)
+
+(~25000) Namdar IRN, Corver HOL, Eriksson SWE
+
+POL: Tomaszewski - Szymanowski, Żmuda, Rudy (85 Maculewicz), Gorgoń -
+Masztaler, Deyna (c), Boniek, Kasperczak -  Lato, Iwan (76 Lubański)
+MEX: Soto - Gómez, Cisneros, Flóres, Vazquez-Ayala - de la Torre, Cuéllar,
+Rangel - Ortega, Cardenas (46 Mendizábal), Sánchez
+
+1-0 Boniek 43, 1-1 Rangel 52, 2-1 Deyna 56, 3-1 Boniek 84
+
+1. POL^         3  2 1 0  5  4-1
+2. GER^         3  1 2 0  4  6-0
+3. TUN          3  1 1 1  3  3-2
+4. MEX          3  0 0 3  0  2-12
+
+Group C - AUT BRA ESP SWE
+
+
+03.06.78  (13.45) Mar del Plata, Estadio Mar del Plata
+
+BRA - SWE 1-1 (1-1)
+
+(~38000) Thomas WAL, Jarguz POL, Namdar IRN
+
+BRA: Leão - Amaral, Toninho, Oscar, Edinho - Cerezo (81 Dirceu), Zico,
+Rivelino (c), Gil (66 Nelinho) - Reinaldo, Batista
+SWE: Hellström - Borg, R.Andersson, Nordqvist (c), Erlandsson - Tapper,
+Linderoth, L.Larsson (81 Edström), B.Larsson - Sjöberg, Wendt
+
+0-1 Sjöberg 38, 1-1 Reinaldo 45
+
+booked: Oscar
+
+-------
+
+NOTE: BRA fielded an official protest complaining on Mr. Thomas'
+partial refereeing and his premature ending of the match; the protest
+was rejected.
+
+03.06.78  (13.45) Buenos Aires, Estadio José Amalfitani
+
+AUT - ESP 2-1 (1-1)
+
+(+49000) Palotai HUN, Barreto URU, Ivanov ZSR
+
+AUT: Koncilia - Sara (c), Pezzey, Obermayer, Breitenberger - Kreuz,
+Prohaska, Hickersberger (67 Weber), Schachner - Krankl (81 Pirkner), Jara
+ESP: Miguel Angel - Marcelino, Migueli, Pirri (c), de la Cruz - San José,
+Asensi, Cardeñosa (41 Leal), Rexach (60 Quini) - Ruben Cano, Dani
+
+1-0 Schachner 10, 1-1 Dani 21, 2-1 Krankl 77
+
+-------
+
+07.06.78  (13.45) Buenos Aires, Estadio José Amalfitani
+
+AUT - SWE 1-0 (1-0)
+
+(~46000) Corver HOL, Maksimović JUG, Samidi TUN
+
+AUT: Koncilia - Sara (c), Pezzey, Obermayer, Breitenberger - Kreuz, Prohaska,
+Hickersberger, Krieger (71 Weber) - Krankl, Jara
+SWE: Hellström - Borg, R.Andersson, Nordqvist (c), Erlandsson - Tapper
+(36 Torstensson), Linderoth (80 Edström), L.Larsson - B.Larsson, Sjöberg, Wendt
+
+1-0 Krankl 42 p
+
+-------
+
+07.06.78  (13.45) Mar del Plata, Estadio Mar del Plata
+
+BRA - ESP 0-0
+
+(~40000) Gonella ITA, Klein ISR, Ithurralde ARG
+
+BRA: Leão (c) - Nelinho (71 Gil), Amaral, Toninho, Oscar - Edinho, Cerezo,
+Zico (83 Mendonça), Dirceu - Reinaldo, Batista
+ESP: Miguel Angel - Marcelino, Migueli (51 Biosca), Uria (79 Guzmán), Olmo -
+San José, Asensi, Cardeñosa, Leal - Juanito, Santillana
+
+booked: Leal
+
+-------
+
+11.06.78  (13.45) Mar del Plata, Estadio Mar del Plata
+
+BRA - AUT 1-0 (1-0)
+
+(~40000) Wurtz FRA, Bouzo SYR, Tesfaye ETH
+
+BRA: Leão (c) - Rodriguez Neto, Amaral, Toninho, Oscar - Cerezo
+(71 Chicão), Mendonça (84 Zico), Dirceu, Roberto - Gil, Batista
+AUT: Koncilia - Sara (c), Pezzey, Obermayer, Breitenberger - Kreuz, Prohaska,
+Hickersberger (61 Weber), Krieger (84 Happich) - Krankl, Jara
+
+1-0 Roberto 40
+
+-------
+
+11.06.78  (13.45) Buenos Aires, Estadio José Amalfitani
+
+ESP - SWE 1-0 (0-0)
+
+(~48000) Riversi GER, Prokop DDR, Ithurralde ARG
+
+ESP: Miguel Angel - Marcelino, Biosca, Uria, Olmo (46 Pirri) - San José,
+Asensi (c), Cardeñosa, Leal - Juanito, Santillana
+SWE: Hellström - Borg, R.Andersson, Nordqvist (c), Erlandsson - Nilsson, L.Larsson,
+Nordin, B.Larsson - Sjöberg (67 Linderoth), Edström (60 Wendt)
+
+1-0 Asensi 78
+
+booked: Borg
+
+1. AUT^         3  2 0 1  4  3-2
+2. BRA^         3  1 2 0  4  2-1
+3. ESP          3  1 1 1  3  2-2
+4. SWE          3  0 1 2  1  1-3
+
+NOTE: First place awarded to AUT after the tournament rules were
+extended to take into account number of goals scored
+
+Group D - HOL IRN PER SCO
+
+
+03.06.78  (16.45) Mendoza, Estadio Mendoza
+
+HOL - IRN 3-0 (1-0)
+
+(~42000) González MEX, Wurtz FRA, Comesaña ARG
+
+HOL: Jongbloed - Suurbier, Krol (c), Haan, Rijsbergen - W.Van de Kerkhof,
+Neeskens, Jansen - Rep, R.Van de Kerkhof (70 Nanninga), Rensenbrink
+IRN: Hejazi - Nazari, Abdolahi, Kazerani, Eskandarian - Parvin (c),
+Ghassempour, Sadeghi, Nayebagha - Djahani, Faraki (51 Rowshan)
+
+1-0 Rensenbrink 40 p, 2-0 Rensenbrink 62 h, 3-0 Rensenbrink 75 p
+
+booked: Eskandarian
+
+-------
+
+03.06.78  (16.45) Cordoba, Estadio Cordoba
+
+PER - SCO 3-1 (1-1)
+
+(~42000) Eriksson SWE, Franco ESP, Tesfaye ETH
+
+PER: Quiroga - Duarte, Manzo, Chumpitaz (c), Diaz - Velasquez, Cueto
+(83 P.Rojas), Cubillas, Muñante - La Rosa (63 Sotil), Oblitas
+SCO: Rough - Kennedy (c), Burns, Buchan, Forsyth - Rioch (76 Gemmill), Masson
+(76 Macari), Hartford, Dalglish - Jordan, Johnston
+
+0-1 Jordan 14, 1-1 Cueto 43, 2-1 Cubillas 72, 3-1 Cubillas 77 f (63 Quiroga
+saved a penalty by Masson)
+
+booked: Velasquez
+
+NOTE: Johnston expulsed from the tournament after failed anti-dope
+testing
+
+-------
+
+07.06.78  (16.45) Mendoza, Estadio Mendoza
+
+HOL - PER 0-0
+
+(~30000) Prokop DDR, Coerezza ARG, Ivanov ZSR
+
+HOL: Jongbloed - Suurbier, Krol (c), Poortvliet, Rijsbergen - W.Van de
+Kerkhof, Neeskens (68 Nanninga), Jansen - Haan, R.Van de Kerkhof (46
+Rep), Rensenbrink
+PER: Quiroga - Duarte, Manzo, Chumpitaz (c), Diaz - Velasquez, Cueto,
+Cubillas, Muñante - La Rosa (63 Sotil), Oblitas
+
+booked: R.Van de Kerkhof / Muñante
+
+-------
+
+07.06.78  (16.45) Cordoba, Estadio Cordoba
+
+IRN - SCO 1-1 (0-1)
+
+(~8000) N'Diaye SEN, Bainea ROM, Coelho BRA
+
+IRN: Hejazi - Nazari, Abdolahi, Kazerani, Eskandarian - Parvin (c),
+Ghassempour, Sadeghi, Danaifar (89 Nayebagha) - Djahani, Faraki (83 Rowshan)
+SCO: Rough - Jardine, Burns, Buchan (56 Forsyth), Donachie - Gemmill (c),
+Macari, Hartford, Dalglish (74 Harper) - Jordan, Robertson
+
+0-1 Eskandarian 43 s, 1-1 Danaifar 60
+
+booked: Eskandarian
+
+-------
+
+11.06.78  (16.45) Mendoza, Estadio Mendoza
+
+SCO - HOL 3-2 (1-1)
+
+(~40000) Lienmayr AUT, Palotai HUN, Seoudi TUN
+
+SCO: Rough - Kennedy (c), Buchan, Forsyth, Donachie - Gemmill, Rioch,
+Hartford, Dalglish - Souness, Jordan
+HOL: Jongbloed - Suurbier, Krol (c), Rijsbergen (44 Wildschut),
+Poortvliet - W.Van de Kerkhof - Neeskens (10 Boskamp), Jansen, R.Van de
+Kerkhof - Rep, Rensenbrink.
+
+0-1 Rensenbrink 34 p, 1-1 Dalglish 44, 2-1 Gemmill 47 p, 3-1 Gemmill 68, 3-2
+Rep 72
+
+-------
+
+11.06.78  (16.45) Cordoba, Estadio Cordoba
+
+PER - IRN 4-1 (3-1)
+
+(+21000) Jarguz POL, Maksimović JUG, Winsemann CAN
+
+PER: Quiroga - Duarte, Manzo (68 Leguia), Chumpitaz, Diaz - Velasquez,
+Cueto, Cubillas, Muñante - La Rosa (60 Sotil), Oblitas
+IRN: Hejazi - Nazari, Abdolahi, Kazerani, Allahvardi - Parvin (c), Ghassempour,
+Sadeghi, Danaifar - Faraki (52 Djahani), Rowshan (66 Fariba).
+
+1-0 Velasquez 2 (111 sec), 2-0 Cubillas 36 p, 3-0 Cubillas 39 p, 3-1 Rowshan
+41, 4-1 Cubillas 79
+
+1. PER^         3  2 1 0  5  7-2
+2. HOL^         3  1 1 1  3  5-3
+3. SCO          3  1 1 1  3  5-6
+4. IRN          3  0 1 2  1  2-8
+
+Group 1 - AUT GER HOL ITA
+
+
+14.06.78  (13.45) Buenos Aires, Estadio Monumental
+
+ITA - GER 0-0
+
+(~68000) Maksimović JUG, González MEX, Comesaña ARG
+
+ITA: Zoff (c) - Gentile, Bellugi, Scirea, Cabrini - Benetti, Antognoni
+(46 Zaccarelli), Tardelli, Causio - Rossi, Bettega
+GER: Maier - Vogts (c), Rüssmann, Zimmermann (54 Konopka), Dietz - Kaltz,
+Bonhof, Flohe (69 Beer), Rummenigge - Fischer, Hölzenbein
+
+-------
+
+14.06.78  (13.45) Cordoba, Estadio Cordoba
+
+HOL - AUT 5-1 (3-0)
+
+(~15000) Gordon SCO, Bouzo SYR, Ithurralde ARG
+
+HOL: Schrijvers - Poortvliet, Krol (c), Brandts (65 van Kraay), Wildschut -
+Jansen, Haan, W.Van de Kerkhof, R.Van de Kerkhof (61 Schoenaker) - Rep,
+Rensenbrink
+AUT: Koncilia - Sara (c), Pezzey, Obermayer, Breitenberger - Hickersberger,
+Krieger, Prohaska, Kreuz - Krankl, Jara
+
+1-0 Brandts 7 h, 2-0 Rensenbrink 35 p, 3-0 Rep 37, 4-0 Rep 53, 4-1 Obermayer
+70, 5-1 W.Van de Kerkhof 87
+
+-------
+
+18.06.78  (16.45) Cordoba, Estadio Cordoba
+
+HOL - GER 2-2 (1-1)
+
+(~46000) Barreto URU, Coelho BRA, Comesaña ARG
+
+HOL: Schrijvers - Krol (c), Poortvliet, Brandts, W.Van de Kerkhof -
+Wildschut (79 Nanninga), Jansen, Haan - R.Van de Kerkhof, Rep, Rensenbrink
+GER: Maier - Vogts (c), Rüssmann, Dietz, Kaltz - Bonhof, Beer,
+Rummenigge, Abramczik - Hölzenbein, D.Müller
+
+0-1 Abramczik 3 h, 1-1 Haan 27, 1-2 D.Müller 70 h, 2-2 R.Van de Kerkhof 87
+
+booked: W.Van de Kerkhof / Maier
+sent off: Nanninga (88)
+
+NOTE: Together with the ITA-AUT match, the 300th (or 301th) game
+of the World Cup
+
+-------
+
+18.06.78  (16.45) Buenos Aires, Estadio Monumental
+
+ITA - AUT 1-0 (1-0)
+
+(~50000) Rion BEL, Coerezza ARG, N'Diaye SEN
+
+ITA: Zoff (c) - Gentile, Bellugi (46 Cuccureddu), Scirea, Cabrini -
+Benetti, Zaccarelli, Tardelli, Causio - Rossi, Bettega (71 Graziani)
+AUT: Koncilia - Sara (c), Pezzey, Obermayer, Strasser - Hickersberger,
+Krieger, Prohaska, Kreuz - Krankl, Schachner (63 Pirkner)
+
+1-0 Rossi 14
+
+NOTE: Together with the HOL-GER match, the 300th (or 301th) game
+of the World Cup
+
+-------
+
+21.06.78  (13.45) Buenos Aires, Estadio Monumental
+
+HOL - ITA 2-1 (0-1)
+
+(~68000) Franco ESP, Orozco PER, Pestarino ARG
+
+HOL: Schrijvers (21 Jongbloed) - Poortvliet, Krol (c), Brandts, W.Van
+de Kerkhof - Neeskens, Jansen, Haan, R.Van de Kerkhof - Rep (66 Van Kraay),
+Rensenbrink
+ITA: Zoff (c) - Gentile, Cuccureddu, Scirea, Cabrini - Benetti (79
+Graziani), Zaccarelli, Tardelli, Causio (46 C.Sala) - Rossi, Bettega
+
+0-1 Brandts 19 o, 1-1 Brandts 50, 2-1 Haan 75
+
+booked: Rep, Haan / Benetti, Tardelli, Cabrini
+
+-------
+
+21.06.78  (13.45) Cordoba, Estadio Cordoba
+
+AUT - GER 3-2 (0-1)
+
+(~20000) Klein ISR, Garrido POR, Jarguz POL
+
+AUT: Koncilia - Sara (c), Pezzey, Obermayer, Strässer - Hickersberger,
+Krieger, Prohaska, Kreuz - Krankl, Schachner (71 Oberacher)
+GER: Maier - Vogts (c), Rüssmann, Dietz, Kaltz - Bonhof, Beer (46 H.Müller),
+Rummenigge, Abramczik - Hölzenbein, D.Müller (61 Fischer)
+
+0-1 Rummenige 19, 1-1 Vogts 59 o, 2-1 Krankl 66, 2-2 Hölzenbein 68 h, 3-2
+Krankl 88
+
+booked: Prohaska, Sara / Abramczik
+
+1. HOL          3  2 1 0  5  9-4
+2. ITA          3  1 1 1  3  2-2
+3. GER          3  0 2 1  2  4-5
+4. AUT          3  1 0 2  2  4-8
+
+Group 2 - ARG BRA PER POL
+
+
+14.06.78  (16.45) Mendoza, Estadio Mendoza
+
+BRA - PER 3-0 (2-0)
+
+(~40000) Rainea ROM, Dubach SUI, Winsemann CAN
+
+BRA: Leão (c) - Toninho, Oscar, Amaral, Rodriguez Neto - Batista, Cerezo
+(76 Chicão), Dirceu, Mendonça - Gil (70 Zico), Roberto
+PER: Quiroga - Duarte, Manzo, Chumpitaz (c), Diaz (11 Navarro) - Velasquez,
+Cueto, Cubillas, Munante - La Rosa, Oblitas (46 P.Rojas)
+
+1-0 Dirceu 15 f, 2-0 Dirceu 28, 3-0 Zico 73 p
+
+-------
+
+14.06.78  (19.15) Rosario, Estadio Rosario
+
+ARG - POL 2-0 (1-0)
+
+(~40000) Eriksson SWE, Namdar IRN, Tosfaye ETH
+
+ARG: Fillol - Olguin, L.Galvan, Passarella, Tarantini - Ardiles,
+Gallego, Valencia (46 Villa), Houseman (63 Ortiz) - Kempes, Bertoni
+POL: Tomaszewski - Szymanowski, Żmuda, Kasperczak, Maculewicz -
+Nawałka, Deyna (c), Boniek, Masztaler (65 Mazur) - Lato, Szarmach
+
+1-0 Kempes 16 h, 2-0 Kempes 71 (39 Fillol saved a penalty by Deyna)
+
+booked: Gallego / Maculewicz
+
+-------
+
+18.06.78  (13.45) Mendoza, Estadio Mendoza
+
+POL - PER 1-0 (0-0)
+
+(~35000) Partridge ENG, Thomas WAL, Corver HOL
+
+POL: Kukla - Szymanowski, Gorgoń, Żmuda, Maculewicz - Nawałka, Deyna (c),
+Boniek (86 Lubański), Masztaler (46 Kasperczak) - Lato, Szarmach
+PER: Quiroga - Duarte, Manzo, Chumpitaz (c), Navarro - Quesada, Cueto,
+Cubillas, Munante (46 R.Rojas) - La Rosa (73 Sotil), Oblitas.
+
+1-0 Szarmach 65 h
+
+booked: Boniek, Gorgoń / Quiroga, Manzo
+
+-------
+
+18.06.78  (19.15) Rosario, Estadio Rosario
+
+ARG - BRA 0-0
+
+(~46000) Palotai HUN, Linemayr AUT, Prokop DDR
+
+ARG: Fillol - Olguin, L.Galvan, Passarella (c), Tarantini - Ardiles
+(46 Villa), Gallego, Luqué, Ortiz (31 Alonso) - Kempes, Bertoni
+BRA: Leão (c) - Toninho, Oscar, Amaral, Rodriguez Neto (34 Edinho) - Batista,
+Chicão, Dirceu - Mendonça (67 Zico), Gil, Roberto
+
+booked: Villa / Chicão, Edinho, Zico
+
+-------
+
+21.06.78  (16.45) Mendoza, Estadio Mendoza
+
+BRA - POL 3-1 (1-1)
+
+(~44000) Silvagno CHI, Ivanov ZSR, González MEX
+
+BRA: Leão (c) - Toninho, Oscar, Amaral, Nelinho - Batista, Cerezo
+(70 Rivelino), Dirceu - Zico (7 Mendonça), Gil, Roberto
+POL: Kukla - Szymanowski, Gorgoń, Żmuda, Maculewicz - Nawałka, Deyna (c),
+Boniek, Kasperczak (65 Lubański) - Lato, Szarmach
+
+1-0 Nelinho 13 f, 1-1 Lato 45, 2-1 Roberto 57, 3-1 Roberto 63
+
+booked: Mendonça, Cerezo
+
+-------
+
+21.06.78  (19.15) Rosario, Estadio Rosario
+
+ARG - PER 6-0 (2-0)
+
+(+40000) Wurtz FRA, Riwersi GER, Gonella ITA
+
+ARG: Fillol - Olguin, L.Galvan, Passarella (c), Tarantini - Larrosa,
+Gallego (86 Oviedo), Luqué, Ortiz - Kempes, Bertoni (65 Houseman)
+PER: Quiroga - Duarte, Manzo, Chumpitaz (c), R.Rojas - Quesada, Cueto,
+Velasquez (52 Gorriti) Cubillas - Munante, Oblitas
+
+1-0 Kempes 21, 2-0 Tarantini 43 h, 3-0 Kempes 49, 4-0 Luqué 50 h, 5-0 Houseman
+67, 6-0 Luqué 72
+
+booked: Quesada, Velasquez
+
+1. ARG          3  2 1 0  5  8-0
+2. BRA          3  2 1 0  5  6-1
+3. POL          3  1 0 2  2  2-5
+4. PER          3  0 0 3  0  0-10
+
+Third place match
+
+
+24.06.78  (15.00) Buenos Aires, Estadio Monumental
+
+BRA - ITA 2-1 (0-1)
+
+(+76000) Klein ISR, Palotai HUN, González MEX
+
+BRA: Leão (c) - Nelinho, Oscar, Amaral, Rodriguez Neto - Cerezo (64 Rivelino),
+Batista, Dirceu, Gil (46 Reinaldo) -  Roberto, Mendonça
+ITA: Zoff (c) - Cuccureddu, Gentile, Scirea, Cabrini - P.Sala, Antognoni
+(79 C.Sala), Maldera, Causio - Rossi, Bettega
+
+0-1 Causio 38 h, 1-1 Nelinho 64, 2-1 Dirceu 72
+
+booked: Nelinho, Batista / Gentile
+
+Final
+
+
+25.06.78  (15.00) Buenos Aires, Estadio Monumental
+
+ARG - HOL 3-1 (1-0, 1-1, 2-1)
+
+(~70000) Gonella ITA, Barreto URU, Lienmayr AUT
+
+ARG: Fillol - Olguin, Galvan, Passarella (c), Tarantini - Ardiles (66 Larossa),
+Gallego, Kempes, Bertoni - Luqué, Ortiz (75 Houseman)
+HOL: Jongbloed - Poortvliet, Krol (c), Brandts, Jansen (73 Suurbier) -
+Neeskens, Haan, W. van de Kerkhof, R. van de Kerkhof - Rep (59 Nanninga),
+Rensenbrink
+
+1-0 Kempes 38, 1-1 Nanninga 82 h, 2-1 Kempes 105, 3-1 Bertoni 115
+
+booked: Ardilles, Larossa / Krol, Poortvliet
+
+
+
+
+## scorers' list
+##
+## own goals - 2 (Vogts GER for aut, Eskandarian IRN for SCO, Brandts HOL for
+##     ITA + 1 goal)
+##
+## In total 103 goals (12 p, 3 f, 12 h, 3 o), 2,68 per match. Most goals - ARG
+## and HOL (15), no team without goals. 60 players scored (including 6 earlier
+## scorers from 1974)
+

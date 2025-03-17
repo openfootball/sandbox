@@ -1,0 +1,293 @@
+= World Cup 1934
+
+##  using/trying a rsssf-like format
+## see https://www.rsssf.org/tables/34full.html
+
+
+# Italy, 27 May to 10 Jun 1934 (Bologna, Genova, Firenze, Roma, Milano, Napoli, Torino, Trieste) 
+# Decided at 8 Oct 1932. Entries deadline 28 Feb 1933. 
+# 32 countries entered (21 for the first time), 
+# 32 seeded, 29 played (CHI, PER, TUR withdrew). 
+# Qualifications drawn 22 May 1933 at Paris. Finals drawn 3 May 1934 at Rome.
+
+
+» Eightfinals
+
+
+27.05.1934 16.30 @ Rome, Stadio del PNF
+
+ITA - USA 7-1 (3-0)
+
+# (~30000) Mercet SUI, Escartin ESP, Ženišek CZE
+
+ITA: Combi - Rosetta, Allemandi - Pizziolo, Monti, Bertolini -
+     Guarisi, Meazza, Schiavio, Ferrari, Orsi
+USA: Hjulian -  Czerkiewicz, Moorhouse - Pietras, Gonsalvez,
+     Florie - Ryan, Nilsen, Donelli, Dick, Maclean
+
+1-0 Schiavio 18', 2-0 Orsi 20', 3-0 Schiavio 29', 3-1 Donelli 67', 4-1 Ferrari 63', 
+5-1 Schiavio 64', 6-1 Orsi 69', 7-1 Meazza 89'
+
+
+# --------
+
+__END__
+
+
+27.05.34  (16.30) Trieste, Stadio Littorio
+
+CZE - ROM 2-1 (0-1)
+
+(+8000) Langenus BEL, Scarpi ITA, Scorzoni ITA
+
+CZE: Plánička (c) - Ženišek, Čtyroký - Koštálek, Čambal, Krcil -
+Junek, Silný, Sobotka, Nejedlý, Puč
+ROM: Zombory - Vogl (c), Albu - Deheleanu, Cotormani, Moraveţ -
+Bindea, Covaci, Sepi, Bodola, Dobai
+
+0-1 Dobay 11, 1-1 Puč 50, 2-1 Nejedlý 67
+
+--------
+
+27.05.34  (16.30) Florence, Stadio Giovanni Berta
+
+GER - BEL 5-2 (1-2)
+
+(-8000) Mattea ITA, Baert FRA, Melandri ITA
+
+GER: Kress - Haringer, Schwartz - Janes, Szepan (c), Zielinski -
+Lehner, Hohmann, Conen, Siffling, Kobierski
+BEL: van de Weyer - Smellinckx, Joacim - Peeraer, Welkenhuysen (c),
+Claessens - Devries, Voorhoof, Capelle, Grimmonprez, Heremans
+
+1-0 Kobierski 25, 1-1 Voorhoof 29, 1-2 Voorhoof 43, 2-2 Sifling 49, 3-2
+Conen 66, 4-2 Conen 70, 5-2 Conen 87
+
+--------
+
+27.05.34   (16.30) Torino, Stadio Mussolini
+
+AUT - FRA 3-2 (1-1, 1-1, 2-1)
+
+(-20000) van Moorsel HOL, Caironi ITA, Baert BEL
+
+AUT: Platzer - Cisar, Sesta - Wagner, Smistik (c), Urbanek -
+Zischek, Bican, Sindelar, Schall, Viertl
+FRA: Thépot (c) - Mairesse, Mattler - Delfour, Verriest, Liétaer -
+Keller, Alcazar, Nicolas, Rio, Aston
+
+0-1 Nicolas 18, 1-1 Sindelar 44, 2-1 Schall 93, 3-1 Bican 109, 3-2 Verriest
+118 p
+
+--------
+
+27.05.34  (16.30) Genova, Stadio Marassi
+
+ESP - BRA 3-1 (3-0)
+
+(-25000) Birlem GER, Carminati ITA, Ivanicsics HUN
+
+ESP: Zamora (c) - Ciriaco, Quincoces - Cillauren, Muguerza, Márculete -
+Iraragorri, Lánguara, Lecue, Lafuente, Gorostiza
+BRA: Pedrosa - Silvio, Luz - Tinoco, Martim Silveira (c), Canalli -
+Luizinho, de Brito, Leónidas, Armadinho, Patesko
+
+1-0 Iraragorii 18 p, 2-0 Lángara 25, 3-0 Lángara 29, 3-1 Leónidas 55
+(62 Zamora saved a penalty by Brito)
+
+--------
+
+27.05.34  (16.30) Milano, Stadio San Siro
+
+SUI - HOL 3-2 (2-1)
+
+(-40000) Eklind SWE, Beranek AUT, Bonivento ITA
+
+SUI: Séchehaye - Minelli (c), Weiler - Guinchard, Jaccard, Hufschmid -
+von Känel, Passello, Kielholz, Abegglen III, Bossi
+HOL: Van der Meulen - Weber, Van Run - Pellikaan, Anderiesen, Van
+Heel (c) - Wels, Vente, Bakhuys, Smit, Van Nellen
+
+1-0 Kielholz 7, 1-1 Smit 19, 2-1 Kielholz 29, 3-1 Abegglen 69, 3-2
+Vente 84
+
+--------
+
+27.05.34  (16.30) Bologna, Stadio Littoriale
+
+SWE - ARG 3-2 (1-1)
+
+(-15000) Braun AUT, Carraro ITA, Turbiani ITA
+
+SWE: Rydberg - Axelsson, S.Andersson - Carlsson, Rosen (c), E.Andersson -
+Dunker, Gustafsson, Jonasson, Keller, Kroon
+ARG: Freschi - Pedevilla, Belis - Nehin, Sosa-Urbieta, López (c) -
+Rúa, Wilde, De Vincenzi, Galateo, Irañeta
+
+0-1 Belis 4 f, 1-1 Jonasson 9, 1-2 Galateo 46, 2-2 Jonasson 67, 3-2 Kroon 79
+
+--------
+
+27.05.34  (16.30) Naples, Stadio Ascarelli
+
+HUN - EGY 4-2 (2-2)
+
+(-12000) Barlassina ITA, Datillo ITA, Sassi ITA
+
+HUN: A.Szabó - Futó, Sternberg (c) - Palotás, Szücs, Lázár - Markos,
+Vincze, Teleki, Toldi, G.Szabó
+EGY: Mansour - Ali Shafi, Hamidu - El Far, Rafaat, R. Hassan -
+Latif, Fawzi, El Tetch (c), Taha, M. Hassan
+
+1-0 Teleki 11, 2-0 Toldi 31, 2-1 Fawzi 35 h, 2-2 Fawzi 39, 3-2 Vincze 53,
+4-2 Toldi 61
+
+
+» Quarter Finals
+
+
+31.05.34  (16.30) Milano, Stadio San Siro
+
+(-15000) Barlassina ITA, van Moorsel HOl, Marcet SUI
+
+GER - SWE 2-1 (0-0)
+
+GER: Kress - Haringer, Busch - Gramlich, Szepan (c), Zielinski -
+Lehner, Hohmann, Conen, Siffling, Kobierski
+SWE: Rydberg - Axelsson, S.Andersson - Carlsson, Rosen (c), E.Andersson -
+Dunker, Gustafsson, Jonasson, Keller, Kroon
+
+1-0 Hohmann 60, 2-0 Hohmann 63, 2-1 Dunker 82
+
+--------
+
+31.05.34  Bologna, Stadio Littoriale
+
+(~25000) Mattea FRA, Birlem GER, Escartin ESP
+
+AUT - HUN 2-1 (1-0)
+
+AUT: Platzer - Cisar, Sesta - Wagner, Smistik (c), Urbanek - Zischek,
+Bican, Sindelar, Horvath, Viertl
+HUN: A.Szabó - Vagó, Sternberg (c) - Pálotas, Szücs, Szalay - Markos,
+Avar, Sarosi, Toldi, Kemenyi
+
+1-0 Horvath 8, 2-0 Zischek 51, 2-1 Sárosi 60 p
+
+sent off: Markos (80)
+
+--------
+
+31.05.34  Florence, Stadio Giovanni Berta
+
+ITA - ESP 1-1 (0-1, 1-1, 1-1)
+
+(~35000) Baert BEL, Ivanciscs HUN, Ženišek CZE
+
+ITA: Combi (c) - Monzeglio, Allemandi - Pizziolo, Monti, Castellazzi -
+Guaita, Meazza, Schiavio, Ferrari, Orsi
+ESP: Zamora (c) - Ciriaco, Quincoces - Cillauren, Muguerza, Lafuente -
+Iraragorri, Lángara, Fede, Regueiro, Gorostiza
+
+0-1 Regueiro 30, 1-1 Ferrari 44
+
+NOTE: This match was replayed
+
+01.06.34  Florence, Stadio Giovanni Berta (replay)
+
+(~45000) Mercet SUI, Ivanciscs HUN, Ženišek CZE
+
+ITA - ESP 1-0 (1-0)
+
+ITA: Combi (c) - Monzeglio, Allemandi - Ferraris, Monti, Bertolini -
+Guaita, Meazza, Borel, De Maria, Orsi
+ESP: Nogues - Zabalo, Quincoces (c) - Cillauren, Muguerza, Lecue -
+Ventolrá, Regueiro, Campanal, Chacho, Bosch
+
+1-0 Meazza 11 h
+
+--------
+
+31.05.34  (16.30) Torino, Stadio Mussolini
+
+(~12000) Beranek AUT, Mohammed EGY, Baert FRA
+
+CZE - SUI 3-2 (1-1)
+
+CZE: Planička (c) - Ženišek, Čtyroký - Koštálek, Čambal, Krcil - Junek,
+Svoboda, Sobotka, Nejedlý, Puč
+SUI: Séchehaye - Minelli (c), Weiler - Guinchard, Jaccard, Hufschmid -
+von Känel, Jäggi, Kielholz, Abegglen III, Jaeck.
+
+0-1 Kielholz 18, 1-1 Svoboda 24, 2-1 Sobotka 49, 2-2 Jäggi 78, 3-2 Nejedlý
+82
+
+
+» Semifinals
+
+
+03.06.34  (16.30) Milano, Stadio San Siro
+
+ITA - AUT 1-0 (0-0)
+
+(~60000) Eklind SWE, Baert BEL, Ženišek CZE
+
+ITA: Combi (c) - Monzeglio, Allemandi - Ferraris, Monti, Bertolini -
+Guaita, Meazza, Schiavio, Ferrari, Orsi
+AUT: Platzer - Cisar, Sesta - Wagner, Smistik (c), Urbanek - Zischek,
+Bican, Sindelar, Schall, Viertl
+
+1-0 Guaita 19
+
+--------
+
+03.06.34  (16.30) Rome, Stadio del PNF
+
+CZE - GER 3-1 (1-0)
+
+(~10000) Barlassina ITA, Beranek AUT, Escartin ESP
+
+CZE: Planička (c) - Burgr, Čtyroký - Koštálek, Čambal, Krcil - Junek,
+Svoboda, Sobotka, Nejedlý, Puč
+GER: Kress - Busch, Haringer - Zielinski, Szepan (c), Bender - Lehner,
+Siffling, Conen, Noack, Kobierski
+
+1-0 Nejedlý 21, 1-1 Noack 59, 2-1 Nejedlý 69, 3-1 Nejedlý 81
+
+NB: some sources credit the 2-1 to Krcil; FIFA officially recognised the
+    goal as Nejedlý's on November 10, 2006 (!)
+
+
+» Third place match
+
+07.06. 17.30 @ Napoli, Stadio Ascarelli
+
+(-8000) Carraro ITA, Caironi ITA, Escartin ESP
+
+GER - AUT 3-2 (3-1)
+
+GER: Jakob - Busch, Janes - Zielinski, Szepan (c), Münzenberg - Bender,
+Lehner, Siffling, Conen, Heidemann
+AUT: Platzer - Cisar, Sesta - Wagner, Smistik (c), Urbanek - Zischek,
+Bican, Braun, Horvath, Viertl
+
+1-0 Lehner 4, 2-0 Conen 29, 2-1 Horvath 30, 3-1 Lehner 42, 3-2 Sesta 55
+
+
+» Final
+
+10.06. 17.00 @ Rome, Stadio del PNF
+
+ITA - CZE 2-1 (0-0, 1-1, 2-1)
+
+(~45000) Eklind SWE, Baert BEL, Ivanicsics HUN
+
+ITA: Combi (c) - Monzeglio, Allemandi - Ferraris, Monti, Bertolini -
+Guaita, Meazza, Schiavio, Ferrari, Orsi
+CZE: Plánička (c) - Ženišek, Čtyroký - Koštálek, Čambal, Krcil -
+Junek, Svoboda, Sobotka, Nejedlý, Puč
+
+0-1 Puč 71, 1-1 Orsi 81, 2-1 Schiavio 95
+
+
+
