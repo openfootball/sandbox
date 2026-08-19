@@ -60,5 +60,23 @@ check, try qualifiers
 - <https://www.rsssf.org/tables/2022q.html>
 
 
+ 
+
+
+## The Fjelstul World Cup Database by Joshua C. Fjelstul
+
+<https://github.com/jfjelstul/worldcup>
+
+
+> The data in the Fjelstul World Cup Database is coded based on information from Wikipedia.
+> Some of this information is cross-referenced with the official FIFA match reports to check for accuracy. 
+
+
+
+
+## more
+
+- <https://www.kaggle.com/datasets/iamsouravbanerjee/fifa-football-world-cup-dataset>
+- 
 
 
